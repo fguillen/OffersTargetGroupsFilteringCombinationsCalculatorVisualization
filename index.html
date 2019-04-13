@@ -42,9 +42,7 @@
       <section id="combinations">
         <h2>Combinations ({{ combinationsLength }})</h2>
         <div class="row" v-for="combination in combinations">
-          [{{ combination.numSurveysUnlocked}}] -
-          {{ combination.demographicsActive }} -
-          {{ combination.surveysUnlocked }}
+          <div class="col-1 demographic" v-for="demographic in renderDemographics(combination)" v-bind:class="{ active: demographic.active }" data-toggle="tooltip" data-placement="top" :title="demographic.name"></div>
         </div>
       </section>
     </div>

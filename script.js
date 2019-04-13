@@ -2,16 +2,16 @@ const version = "0.0.1";
 console.log("Loading APP version", version);
 
 var app = new Vue({
-  el: '#app',
+  el: "#app",
   data: {
     maxStoredCombinations: 10,
     demographics: [],
     surveys: [
-      { title: 'Survey 1', demographics: ["GENDER", "ETHNICITY"], unlocked: false },
-      { title: 'Survey 2', demographics: ["GENDER", "ETHNICITY"], unlocked: false },
-      { title: 'Survey 3', demographics: ["GENDER", "AGE"], unlocked: false },
-      { title: 'Survey 4', demographics: ["GENDER", "AGE", "happy"], unlocked: false },
-      { title: 'Survey 1', demographics: ["GENDER", "ETHNICITY"], unlocked: false }
+      { id: "1", title: "Survey 1", demographics: ["GENDER", "ETHNICITY"], unlocked: false },
+      { id: "2", title: "Survey 2", demographics: ["GENDER", "ETHNICITY"], unlocked: false },
+      { id: "3", title: "Survey 3", demographics: ["GENDER", "AGE"], unlocked: false },
+      { id: "4", title: "Survey 4", demographics: ["GENDER", "AGE", "happy"], unlocked: false },
+      { id: "5", title: "Survey 1", demographics: ["GENDER", "ETHNICITY"], unlocked: false }
     ],
     combinations: []
   },
@@ -19,7 +19,7 @@ var app = new Vue({
     console.log("create");
 
     var _self = this;
-    $.getJSON('./demographics_small.json', function (json) {
+    $.getJSON("./demographics_small.json", function (json) {
       json.forEach((demographicName) => {
         _self.demographics.push({
           name: demographicName,
@@ -52,7 +52,7 @@ var app = new Vue({
 
       var _self = this;
 
-      _.times(100, function() {
+      _.times(10, function() {
         for (var i = 0; i < _self.numOfCombinations; i++) {
           setTimeout((i) => { _self.calculateCombination(i) }, 0, i);
         }
@@ -120,8 +120,8 @@ var app = new Vue({
 
       if(this.combinations.length < this.maxStoredCombinations){
         var combination = {
-          demographicsActive: _.clone(this.demographicsActive()),
-          surveysUnlocked: _.clone(this.surveysUnlocked()),
+          demographicsActive: _.map(this.demographicsActive(), "name"),
+          surveysUnlocked: _.map(this.surveysUnlocked(), "id"),
           numSurveysUnlocked: numSurveysUnlocked
         }
 
@@ -136,6 +136,17 @@ var app = new Vue({
 
     surveysUnlocked: function () {
       return _.select(this.surveys, (survey) => { return survey.unlocked });
+    },
+
+    renderDemographics: function (combination) {
+      console.log("renderDemographics", combination.demographicsActive);
+
+      return _.map(this.demographics, (demographic) => {
+        return {
+          name: demographic.name,
+          active: _.contains(combination.demographicsActive, demographic.name)
+        }
+      });
     }
   }
 })
