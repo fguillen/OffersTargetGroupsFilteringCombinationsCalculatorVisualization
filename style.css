@@ -1,0 +1,19 @@
+.survey {
+  height: 20px;
+  background-color: red;
+  border: 1px solid yellow;
+}
+
+.demographic {
+  height: 20px;
+  background-color: red;
+  border: 1px solid yellow;
+}
+
+.survey.unlocked {
+  background-color: green;
+}
+
+.demographic.active {
+  background-color: green;
+}

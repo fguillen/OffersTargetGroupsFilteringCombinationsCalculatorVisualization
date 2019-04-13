@@ -8,6 +8,9 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
+    <!-- App -->
+    <link rel="stylesheet" type="text/css" href="./style.css">
+
     <title>Offers' TargetGroups Combination Calculator</title>
   </head>
   <body>
@@ -19,15 +22,27 @@
 
       <section id="demographics">
         <h2>Demographics active</h2>
-        <div v-for="demographic in demographics">
-          {{ demographic.name }} - {{ demographic.active }}
-        </li>
+        <div class="row">
+          <div v-for="demographic in demographics" class="col-1 demographic" v-bind:class="{ active: demographic.active }">
+            {{ demographic.name }} - {{ demographic.active }}
+          </li>
+        </div>
       </section>
 
       <section id="surveys">
         <h2>Surveys unlocked</h2>
-        <div v-for="survey in surveys">
-          {{ survey.title }} - {{ survey.unlocked }}
+        <div class="row">
+          <div v-for="survey in surveys" class="col-1 survey locked" v-bind:class="{ unlocked: survey.unlocked }">
+            {{ survey.unlocked }}
+          </div>
+        </div>
+      </section>
+
+      <section id="combinations">
+        <h2>Combinations ({{ combinationsLength }})</h2>
+        <div class="row" v-for="combination in combinations">
+          {{ combination.demographicsActive }} -
+          {{ combination.surveysUnlocked }}
         </div>
       </section>
     </div>
