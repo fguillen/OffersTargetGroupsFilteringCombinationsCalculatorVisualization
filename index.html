@@ -21,6 +21,9 @@
       <h1>Offers' TargetGroups Combination Calculator</h1>
       <div>
         <p>Number of Combinations: {{ numCombinationsDone }} / {{ numCombinations }}</p>
+        <div class="progress">
+          <div class="progress-bar" role="progressbar" v-bind:style="{width: progress + '%'}" aria-valuenow="{{ progress }}" aria-valuemin="0" aria-valuemax="100"></div>
+        </div>
       </div>
 
       <section id="demographics">

@@ -19,6 +19,9 @@ var app = new Vue({
     this.loadSurveys();
   },
   computed: {
+    progress: function() {
+      return Math.round((this.numCombinationsDone / this.numCombinations) * 100);
+    },
     combinationsLength: function() {
       return this.combinations.length;
     },
@@ -69,7 +72,7 @@ var app = new Vue({
     start: function() {
       console.log("start");
 
-      this.resetSurveyStates();
+      this.resetState();
 
       var _self = this;
 
@@ -98,8 +101,10 @@ var app = new Vue({
       this.numCombinationsDone++;
     },
 
-    resetSurveyStates: function() {
-      this.surveys.forEach(survey => survey.unlocked)
+    resetState: function() {
+      this.surveys.forEach(survey => survey.unlocked);
+      this.numCombinationsDone = 0;
+      this.combinations = [];
     },
 
     setDemographicStates(binaryMatrix){
