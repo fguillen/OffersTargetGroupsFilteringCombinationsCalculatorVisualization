@@ -1,0 +1,26 @@
+[
+ {
+   "id": 3192293,
+   "title": "SCPO-51642-US-KKS_SC1144890_Ketankumarsingh",
+   "qualifications_supported": "AGE,REGION,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3258691,
+   "title": "Study_16246281",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3259749,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,REGION,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3261217,
+   "title": "Study_16260503",
+   "qualifications_supported": "AGE,MS_is_mobile",
+   "qualifications_no_supported": "-- NO_TRANSLATION647 --,-- NO_TRANSLATION716 --"
+ }
+]
