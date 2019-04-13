@@ -6,7 +6,7 @@ var app = new Vue({
   data: {
     demographicsUrl: "demographics_small.json",
     surveysUrl: "surveys.json",
-    maxStoredCombinations: 10,
+    maxStoredCombinations: 40,
     demographics: [],
     surveys: [],
     combinations: [],
@@ -81,6 +81,12 @@ var app = new Vue({
 
     },
 
+    toggleDemographic: function(demographic) {
+      console.log("toggleDemographic", demographic);
+      demographic.active = !demographic.active;
+      this.calculate();
+    },
+
     calculateCombination: function(index) {
       var binaryMatrix = index.toString(2);
       binaryMatrix = binaryMatrix.padStart(this.demographics.length, "0");
@@ -103,6 +109,13 @@ var app = new Vue({
       }
     },
 
+    activateCombination: function(combination) {
+      console.log("activateCombination", combination);
+
+      this.demographics = combination.demographics;
+      this.calculate();
+    },
+
     calculate: function() {
       this.surveys.forEach((survey) => {
         this.calculateSurvey(survey);
@@ -119,6 +132,7 @@ var app = new Vue({
 
     storeCombination: function() {
       var numSurveysUnlocked = this.surveysUnlocked().length;
+      var numDemographicsActive = this.demographicsActive().length;
 
       if((this.combinations.length >= this.maxStoredCombinations) && (numSurveysUnlocked > this.minSurveysUnlockedInStoredCombinations)) {
         this.combinations.pop();
@@ -126,8 +140,8 @@ var app = new Vue({
 
       if(this.combinations.length < this.maxStoredCombinations){
         var combination = {
-          demographicsActive: _.map(this.demographicsActive(), "name"),
-          surveysUnlocked: _.map(this.surveysUnlocked(), "id"),
+          demographics: this.duplicateDemographics(),
+          numDemographicsActive: numDemographicsActive,
           numSurveysUnlocked: numSurveysUnlocked
         }
 
@@ -136,22 +150,22 @@ var app = new Vue({
       }
     },
 
+    // Not _.clone neither _.extend was working for me
+    duplicateDemographics: function() {
+      return _.map(this.demographics, (demographic) => {
+        return {
+          name: demographic.name,
+          active: demographic.active
+        }
+      });
+    },
+
     demographicsActive: function() {
       return _.select(this.demographics, demographic => demographic.active);
     },
 
     surveysUnlocked: function() {
       return _.select(this.surveys, survey => survey.unlocked);
-    },
-
-    renderDemographics: function (combination) {
-      return _.map(this.demographics, (demographic) => {
-        return {
-          name: demographic.name,
-          active: _.contains(combination.demographicsActive, demographic.name),
-          numSurveysUnlocked: combination.numSurveysUnlocked
-        }
-      });
     }
   }
 })

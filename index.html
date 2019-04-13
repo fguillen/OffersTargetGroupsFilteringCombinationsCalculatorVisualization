@@ -26,8 +26,8 @@
       <section id="demographics">
         <h2>Demographics active</h2>
         <div class="row">
-          <div v-for="demographic in demographics" class="col demographic" v-bind:class="{ active: demographic.active }" data-toggle="tooltip" data-placement="top" :title="demographic.name"></div>
-          <div class="col">X</div>
+          <div v-for="demographic in demographics" class="col demographic" v-on:click="toggleDemographic(demographic)" v-bind:class="{ active: demographic.active }" data-toggle="tooltip" data-placement="top" :title="demographic.name"></div>
+          <div class="col">{{ surveysUnlocked().length }}</div>
         </div>
       </section>
 
@@ -42,8 +42,8 @@
       <section id="combinations">
         <h2>Combinations ({{ combinationsLength }})</h2>
         <div class="row" v-for="combination in combinations">
-          <div class="col demographic" v-for="demographic in renderDemographics(combination)" v-bind:class="{ active: demographic.active }" data-toggle="tooltip" data-placement="top" :title="demographic.name"></div>
-          <div class="col">{{ combination.numSurveysUnlocked }}</div>
+          <div class="col demographic" v-for="demographic in combination.demographics" v-bind:class="{ active: demographic.active }" data-toggle="tooltip" data-placement="top" :title="demographic.name"></div>
+          <div class="col" v-on:click="activateCombination(combination)">{{ combination.numSurveysUnlocked }}</div>
         </div>
       </section>
     </div>
