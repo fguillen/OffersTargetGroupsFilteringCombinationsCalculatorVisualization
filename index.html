@@ -20,21 +20,21 @@
 
       <h1>Offers' TargetGroups Combination Calculator</h1>
       <div>
-        <p>Number of Combinations: {{ numOfCombinations }}</p>
+        <p>Number of Combinations: {{ numCombinationsDone }} / {{ numOfCombinations }}</p>
       </div>
 
       <section id="demographics">
         <h2>Demographics active</h2>
         <div class="row">
-          <div v-for="demographic in demographics" class="col-1 demographic" v-bind:class="{ active: demographic.active }" data-toggle="tooltip" data-placement="top" :title="demographic.name">
-          </li>
+          <div v-for="demographic in demographics" class="col demographic" v-bind:class="{ active: demographic.active }" data-toggle="tooltip" data-placement="top" :title="demographic.name"></div>
+          <div class="col">X</div>
         </div>
       </section>
 
       <section id="surveys">
         <h2>Surveys unlocked</h2>
         <div class="row">
-          <div v-for="survey in surveys" class="col-1 survey locked" v-bind:class="{ unlocked: survey.unlocked }" data-toggle="tooltip" data-placement="top" :title="survey.title">
+          <div v-for="survey in surveys" class="survey locked" v-bind:class="{ unlocked: survey.unlocked }" data-toggle="tooltip" data-placement="top" :title="survey.title + survey.demographics">
           </div>
         </div>
       </section>
@@ -42,7 +42,8 @@
       <section id="combinations">
         <h2>Combinations ({{ combinationsLength }})</h2>
         <div class="row" v-for="combination in combinations">
-          <div class="col-1 demographic" v-for="demographic in renderDemographics(combination)" v-bind:class="{ active: demographic.active }" data-toggle="tooltip" data-placement="top" :title="demographic.name"></div>
+          <div class="col demographic" v-for="demographic in renderDemographics(combination)" v-bind:class="{ active: demographic.active }" data-toggle="tooltip" data-placement="top" :title="demographic.name"></div>
+          <div class="col">{{ combination.numSurveysUnlocked }}</div>
         </div>
       </section>
     </div>
@@ -64,7 +65,9 @@
 
     <script type="text/javascript">
       $(function () {
-        $('[data-toggle="tooltip"]').tooltip()
+        $('body').tooltip({
+          selector: '[data-toggle=tooltip]'
+        });
       })
     </script>
   </body>

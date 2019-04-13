@@ -13,20 +13,14 @@ var app = new Vue({
       { id: "4", title: "Survey 4", demographics: ["GENDER", "AGE", "happy"], unlocked: false },
       { id: "5", title: "Survey 1", demographics: ["GENDER", "ETHNICITY"], unlocked: false }
     ],
-    combinations: []
+    combinations: [],
+    numCombinationsDone: 0
   },
   created: function() {
     console.log("create");
 
-    var _self = this;
-    $.getJSON("./demographics_small.json", function (json) {
-      json.forEach((demographicName) => {
-        _self.demographics.push({
-          name: demographicName,
-          active: false
-        })
-      });
-    });
+    this.loadDemographics();
+    this.loadSurveys();
   },
   computed: {
     combinationsLength: function() {
@@ -45,6 +39,35 @@ var app = new Vue({
     },
   },
   methods: {
+    loadDemographics: function() {
+      console.log("loadDemographics");
+
+      var _self = this;
+      $.getJSON("./demographics_small.json", function (json) {
+        json.forEach((demographicName) => {
+          _self.demographics.push({
+            name: demographicName,
+            active: false
+          })
+        });
+      });
+    },
+
+    loadSurveys: function() {
+      console.log("loadSurveys");
+
+      var _self = this;
+      $.getJSON("./surveys.json", function (json) {
+        json.forEach((survey) => {
+          _self.surveys.push({
+            title: survey.title,
+            demographics: survey.qualifications_supported.split(",") + survey.qualifications_no_supported.split(","),
+            unlocked: false
+          })
+        });
+      });
+    },
+
     start: function() {
       console.log("start");
 
@@ -52,7 +75,7 @@ var app = new Vue({
 
       var _self = this;
 
-      _.times(10, function() {
+      _.times(1, function() {
         for (var i = 0; i < _self.numOfCombinations; i++) {
           setTimeout((i) => { _self.calculateCombination(i) }, 0, i);
         }
@@ -61,12 +84,13 @@ var app = new Vue({
     },
 
     calculateCombination: function(index) {
-      console.log("calculateCombination", index);
       var binaryMatrix = index.toString(2);
       binaryMatrix = binaryMatrix.padStart(this.demographics.length, "0");
       this.setDemographicStates(binaryMatrix);
       this.calculate();
       this.storeCombination();
+
+      this.numCombinationsDone++;
     },
 
     resetSurveyStates: function() {
@@ -76,7 +100,6 @@ var app = new Vue({
     },
 
     setDemographicStates(binaryMatrix){
-      console.log("setDemographicStates", binaryMatrix)
       for (var i = 0; i < binaryMatrix.length; i++) {
         var value = binaryMatrix[i] == "1";
         this.demographics[i].active = value;
@@ -84,13 +107,9 @@ var app = new Vue({
     },
 
     calculate: function() {
-      var states = _.map(this.demographics, function(e){ return e.active } );
-      console.log("calculate", states);
-
       this.surveys.forEach((survey) => {
         this.calculateSurvey(survey);
-      })
-
+      });
     },
 
     calculateSurvey: function(survey) {
@@ -100,21 +119,13 @@ var app = new Vue({
       var survey_unlocked = _.difference(survey.demographics, demographics_active_names).length == 0;
 
       survey.unlocked = survey_unlocked;
-      // survey.unlocked = (Math.floor(Math.random() * 2) == 0);
-
-      console.log("survey", survey.title, survey.unlocked);
     },
 
     storeCombination: function() {
       console.log("storeCombination");
       var numSurveysUnlocked = this.surveysUnlocked().length;
 
-      console.log("numSurveysUnlocked", numSurveysUnlocked);
-      console.log("this.minSurveysUnlockedInStoredCombinations", this.minSurveysUnlockedInStoredCombinations);
-      console.log("this.combinations.length", this.combinations.length);
-
       if((this.combinations.length >= this.maxStoredCombinations) && (numSurveysUnlocked > this.minSurveysUnlockedInStoredCombinations)) {
-        console.log("combinations.pop()", numSurveysUnlocked);
         this.combinations.pop();
       }
 
@@ -139,12 +150,11 @@ var app = new Vue({
     },
 
     renderDemographics: function (combination) {
-      console.log("renderDemographics", combination.demographicsActive);
-
       return _.map(this.demographics, (demographic) => {
         return {
           name: demographic.name,
-          active: _.contains(combination.demographicsActive, demographic.name)
+          active: _.contains(combination.demographicsActive, demographic.name),
+          numSurveysUnlocked: combination.numSurveysUnlocked
         }
       });
     }

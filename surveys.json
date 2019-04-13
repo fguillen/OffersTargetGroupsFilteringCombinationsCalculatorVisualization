@@ -1,0 +1,6002 @@
+[
+ {
+   "id": 3192293,
+   "title": "SCPO-51642-US-KKS_SC1144890_Ketankumarsingh",
+   "qualifications_supported": "AGE,REGION,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3258691,
+   "title": "Study_16246281",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT,STANDARD_EDUCATION_v2",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3259749,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,REGION,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3261217,
+   "title": "Study_16260503",
+   "qualifications_supported": "AGE,MS_is_mobile",
+   "qualifications_no_supported": "-- NO_TRANSLATION647 --,-- NO_TRANSLATION716 --"
+ },
+ {
+   "id": 3173753,
+   "title": "Study_15866131",
+   "qualifications_supported": "AGE,GENDER,ZIP,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3188502,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3190945,
+   "title": "Study_15903654",
+   "qualifications_supported": "AGE,GENDER,STANDARD_COMPANY_DEPARTMENT,STANDARD_EMPLOYMENT,STANDARD_JOB_TITLE,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": "-- NO_TRANSLATION9349 --"
+ },
+ {
+   "id": 3201117,
+   "title": "Study_15919653",
+   "qualifications_supported": "AGE,GENDER,STANDARD_RELATIONSHIP,MS_is_mobile,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3205598,
+   "title": "Study_15938707",
+   "qualifications_supported": "AGE,STANDARD_DIAGNOSED_AILMENTS_I",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3231697,
+   "title": "WRT15_2019_Boston_1",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA,ETHNICITY",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3239564,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,ETHNICITY,REGION,STANDARD_EDUCATION",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3240136,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,ZIP",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3240169,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3245889,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3246851,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,STANDARD_DIAGNOSED_AILMENTS_I",
+   "qualifications_no_supported": "-- NO_TRANSLATION760 --,-- NO_TRANSLATION765 --"
+ },
+ {
+   "id": 3246906,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,REGION",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3246955,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,REGION",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3246995,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,REGION",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3247032,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,REGION",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3247081,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,REGION",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3247082,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,REGION",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3249354,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3249434,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,STANDARD_JOB_TITLE,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3249555,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,REGION,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3249569,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,REGION,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3250820,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,REGION,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3250919,
+   "title": "Study_16176447",
+   "qualifications_supported": "AGE,ZIP,HISPANIC,ETHNICITY",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3251625,
+   "title": "General Study",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY",
+   "qualifications_no_supported": "-- NO_TRANSLATION76008 --"
+ },
+ {
+   "id": 3253450,
+   "title": "Study_15710501",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": "-- NO_TRANSLATION760 --"
+ },
+ {
+   "id": 3254945,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": "-- NO_TRANSLATION101 --,-- NO_TRANSLATION715 --"
+ },
+ {
+   "id": 3256772,
+   "title": "General Study",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY",
+   "qualifications_no_supported": "-- NO_TRANSLATION76008 --"
+ },
+ {
+   "id": 3259747,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,REGION,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3259834,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,REGION,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3259981,
+   "title": "3324 Apr12",
+   "qualifications_supported": "AGE,GENDER,STATE,parental_status",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3260035,
+   "title": "3324 Apr12v2",
+   "qualifications_supported": "AGE,GENDER,STATE,parental_status",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3260204,
+   "title": "Fun community",
+   "qualifications_supported": "AGE,GENDER,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3261397,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3261627,
+   "title": "Study_16248251",
+   "qualifications_supported": "AGE,GENDER,MS_is_mobile,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3262266,
+   "title": "130966 Spiked Seltzer Graphic Test #211419",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3264119,
+   "title": "Study_16280299",
+   "qualifications_supported": "AGE,GENDER,DMA",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3266610,
+   "title": "Fun Survey!  ",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION747 --"
+ },
+ {
+   "id": 3266879,
+   "title": "Faculty v University Legal Case Scenario",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,STATE,ETHNICITY,STANDARD_HHI_US",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3267079,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3267787,
+   "title": "WRT15_2019_Boston_3",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA,ETHNICITY",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3267992,
+   "title": "SC75990-US",
+   "qualifications_supported": "AGE,GENDER,STANDARD_COMPANY_REVENUE,STANDARD_EMPLOYMENT,STANDARD_B2B_DECISION_MAKER,STANDARD_INDUSTRY_PERSONAL,STANDARD_HHI_US,STANDARD_JOB_TITLE,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3268038,
+   "title": "Study_16287665",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,MS_is_mobile",
+   "qualifications_no_supported": "-- NO_TRANSLATION726 --,-- NO_TRANSLATION45147 --,-- NO_TRANSLATION83816 --"
+ },
+ {
+   "id": 3268134,
+   "title": "Study_16339988",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3268180,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,ETHNICITY",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3268265,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,ETHNICITY",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3266679,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3266786,
+   "title": "Social Perceptions",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,STANDARD_HHI_US",
+   "qualifications_no_supported": "-- NO_TRANSLATION20373 --"
+ },
+ {
+   "id": 333580,
+   "title": "13782_USA_ENT",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 532869,
+   "title": "14563_USA",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 620475,
+   "title": "14891_USA",
+   "qualifications_supported": "AGE,GENDER,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 666066,
+   "title": "15093_US",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 701657,
+   "title": "Money, Cards & Finances Study",
+   "qualifications_supported": "AGE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 701663,
+   "title": "13882_USA_Con_2",
+   "qualifications_supported": "AGE,GENDER,STATE,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 701670,
+   "title": "14147_USA_Industry Influencers",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 701673,
+   "title": "14224_USA",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 701677,
+   "title": "14147_USA_Industry Influence__1",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 701680,
+   "title": "14253_USA_Tulsa",
+   "qualifications_supported": "AGE,GENDER,DMA",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 701683,
+   "title": "14208_US_UP",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 701693,
+   "title": "14323_NON-CG-2",
+   "qualifications_supported": "AGE,GENDER,STATE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 701698,
+   "title": "14460_US",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 701699,
+   "title": "14438_USA_Pros",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 701705,
+   "title": "14543_USA_R",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 701752,
+   "title": "14713_US_BDM",
+   "qualifications_supported": "AGE,STANDARD_EMPLOYMENT",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 701754,
+   "title": "14323_US_NONCG_NEW_VOL1",
+   "qualifications_supported": "AGE,GENDER,STATE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 701756,
+   "title": "14716_US_AMP",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 860785,
+   "title": "Survey on  Heinz Ketchup",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 861369,
+   "title": "Survey on  Hellmanns Ketchup",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 1212122,
+   "title": "Survey for LAPTOPS",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 1285885,
+   "title": "17094_US",
+   "qualifications_supported": "AGE,GENDER,STATE,STANDARD_EMPLOYMENT",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 1313149,
+   "title": "Great survey",
+   "qualifications_supported": "AGE,GENDER,STANDARD_HHI_US",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 1362768,
+   "title": "17031_US_P",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 2096214,
+   "title": "1854-Polling_USA",
+   "qualifications_supported": "AGE,ZIP",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 2295522,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,ZIP,HISPANIC,ETHNICITY,STANDARD_EDUCATION,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION760 --"
+ },
+ {
+   "id": 2352015,
+   "title": "18483_US_N",
+   "qualifications_supported": "AGE,GENDER,STATE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 2468909,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION,STANDARD_EMPLOYMENT,STANDARD_INDUSTRY_PERSONAL",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 2649489,
+   "title": "Great survey",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 2697127,
+   "title": "Social Media Awareness Campaign Research",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": "-- NO_TRANSLATION2204 --"
+ },
+ {
+   "id": 2715575,
+   "title": "499338 - US - 19-003188-01-03 BlueMoon Sessionable English - United States - Primary",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 2719474,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,ETHNICITY,REGION,STANDARD_COMPANY_DEPARTMENT,STANDARD_EMPLOYMENT,STANDARD_B2B_DECISION_MAKER,STANDARD_INDUSTRY_PERSONAL,STANDARD_JOB_TITLE,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 2746798,
+   "title": "Qual2664-0613Parents English - United States - Primary",
+   "qualifications_supported": "AGE,GENDER,STATE,children_ages",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 2746983,
+   "title": "General Survey",
+   "qualifications_supported": "AGE,GENDER,STATE,STANDARD_HHI_US",
+   "qualifications_no_supported": "-- NO_TRANSLATION64874 --"
+ },
+ {
+   "id": 2760852,
+   "title": "General Survey",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,STATE,ETHNICITY",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 2763365,
+   "title": "Qual3095-1220DepowInzlicht | a0f2J00000DHJldQAH English - United States - Primary",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION,STANDARD_EDUCATION,STANDARD_HHI_US",
+   "qualifications_no_supported": "-- NO_TRANSLATION85164 --"
+ },
+ {
+   "id": 2782717,
+   "title": "OTH_450953355_PR_MGPRxxx",
+   "qualifications_supported": "AGE,GENDER,STATE",
+   "qualifications_no_supported": "-- NO_TRANSLATION111057 --"
+ },
+ {
+   "id": 2811434,
+   "title": "Other Survey",
+   "qualifications_supported": "GENDER,parental_status",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 2825593,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,STANDARD_COMPANY_DEPARTMENT,STANDARD_INDUSTRY_PERSONAL,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 2839381,
+   "title": "General Survey",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,STATE,ETHNICITY",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 2845175,
+   "title": "General Survey",
+   "qualifications_supported": "AGE,GENDER,STATE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 2897177,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,STATE",
+   "qualifications_no_supported": "-- NO_TRANSLATION756 --,-- NO_TRANSLATION90061 --,-- NO_TRANSLATION93691 --"
+ },
+ {
+   "id": 2905696,
+   "title": "Rachel- 9F8D8DA5 English - United States - Primary_Cloned",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 2907129,
+   "title": "Project 2018-808 English - United States - Primary",
+   "qualifications_supported": "AGE,GENDER,ZIP,HISPANIC,ETHNICITY,children_ages,parental_status,STANDARD_HHI_US",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 2907368,
+   "title": "General Survey",
+   "qualifications_supported": "AGE,GENDER,REGION",
+   "qualifications_no_supported": "-- NO_TRANSLATION112964 --"
+ },
+ {
+   "id": 2907953,
+   "title": "26198",
+   "qualifications_supported": "AGE,GENDER,STANDARD_COMPANY_DEPARTMENT,STANDARD_INDUSTRY_PERSONAL,STANDARD_JOB_TITLE,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 2921853,
+   "title": "26210",
+   "qualifications_supported": "AGE,GENDER,STANDARD_COMPANY_DEPARTMENT,STANDARD_INDUSTRY_PERSONAL,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 2925202,
+   "title": "Qual3226-0718GenPop | a0f2J00000CfvNEQAZ English - United States - Primary",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION,STANDARD_EDUCATION,STANDARD_HHI_US",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 2928310,
+   "title": "26230",
+   "qualifications_supported": "AGE,GENDER,STANDARD_COMPANY_DEPARTMENT,STANDARD_INDUSTRY_PERSONAL,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 2937525,
+   "title": "DMAs",
+   "qualifications_supported": "AGE,GENDER,DMA,ETHNICITY",
+   "qualifications_no_supported": "-- NO_TRANSLATION92961 --"
+ },
+ {
+   "id": 2942839,
+   "title": "180799380104 - 503593 - 18-079938-01-04- JJ Brand Equity Face Dip-W1 - United States - 2",
+   "qualifications_supported": "AGE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 2943681,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,STATE",
+   "qualifications_no_supported": "-- NO_TRANSLATION756 --,-- NO_TRANSLATION90061 --,-- NO_TRANSLATION93691 --"
+ },
+ {
+   "id": 2945319,
+   "title": "DMAs",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA,ETHNICITY",
+   "qualifications_no_supported": "-- NO_TRANSLATION92961 --"
+ },
+ {
+   "id": 2947582,
+   "title": "502177 - US - 18-059825-01-04 - OLU: PepsiCo Restaurant Bra  English - United States - Primary",
+   "qualifications_supported": "AGE,GENDER,ETHNICITY",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 2950244,
+   "title": "Entertainment Movies Music Tv Etc Survey",
+   "qualifications_supported": "AGE,GENDER,STATE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 2950385,
+   "title": "New Ipsos Study",
+   "qualifications_supported": "AGE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 2951260,
+   "title": "FUN SURVEY",
+   "qualifications_supported": "AGE,GENDER,REGION,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION113710 --,-- NO_TRANSLATION113711 --,-- NO_TRANSLATION113714 --,-- NO_TRANSLATION113715 --,-- NO_TRANSLATION113716 --,-- NO_TRANSLATION113718 --,-- NO_TRANSLATION113719 --"
+ },
+ {
+   "id": 2954724,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,STANDARD_COMPANY_REVENUE,STANDARD_INDUSTRY_PERSONAL",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 2957160,
+   "title": "191200_11",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,STANDARD_EMPLOYMENT",
+   "qualifications_no_supported": "-- NO_TRANSLATION93519 --"
+ },
+ {
+   "id": 2962737,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT",
+   "qualifications_no_supported": "-- NO_TRANSLATION737 --"
+ },
+ {
+   "id": 2969501,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,ZIP",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 2969544,
+   "title": "180799380104 - 503593 - 18-079938-01-04- JJ Brand Equity Face Dip-W1 - United States_Cloned",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 2979042,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,REGION,STANDARD_EMPLOYMENT,STANDARD_B2B_DECISION_MAKER",
+   "qualifications_no_supported": "-- NO_TRANSLATION643 --,-- NO_TRANSLATION92961 --"
+ },
+ {
+   "id": 2979291,
+   "title": "FUN SURVEY",
+   "qualifications_supported": "AGE,GENDER,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION32352 --,-- NO_TRANSLATION113711 --"
+ },
+ {
+   "id": 2983737,
+   "title": "General Study",
+   "qualifications_supported": "AGE,HISPANIC,DMA",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 2986408,
+   "title": "General Study",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,STANDARD_EMPLOYMENT,STANDARD_HHI_US",
+   "qualifications_no_supported": "-- NO_TRANSLATION97479 --"
+ },
+ {
+   "id": 2990892,
+   "title": "Provocative Survey",
+   "qualifications_supported": "AGE,GENDER,ZIP,HISPANIC,ETHNICITY",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 2993372,
+   "title": "26372-US",
+   "qualifications_supported": "AGE,GENDER,STANDARD_COMPANY_DEPARTMENT,STANDARD_INDUSTRY_PERSONAL,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 2993492,
+   "title": "General Study",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA,ETHNICITY,STANDARD_HOME_OWNER,STANDARD_HHI_US",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 2995499,
+   "title": "General Study",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,STANDARD_HHI_US",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 2995616,
+   "title": "General Study",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,STANDARD_HHI_US",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3007034,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,REGION,STANDARD_EMPLOYMENT,STANDARD_B2B_DECISION_MAKER",
+   "qualifications_no_supported": "-- NO_TRANSLATION643 --,-- NO_TRANSLATION92961 --"
+ },
+ {
+   "id": 3008078,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3009905,
+   "title": "General Study",
+   "qualifications_supported": "AGE,HISPANIC,DMA",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3010114,
+   "title": "FUN SURVEY",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION32352 --"
+ },
+ {
+   "id": 3019708,
+   "title": "SV_ITDMs_USA",
+   "qualifications_supported": "AGE,STANDARD_COMPANY_REVENUE,STANDARD_COMPANY_DEPARTMENT,STANDARD_EMPLOYMENT,STANDARD_INDUSTRY_PERSONAL,STANDARD_JOB_TITLE,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3026306,
+   "title": "MC-50746 Network Piyush/Ishu_SC1072281_piyush",
+   "qualifications_supported": "AGE,STANDARD_COMPANY_DEPARTMENT,STANDARD_EMPLOYMENT,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3026633,
+   "title": "MC-50746 IaaS Piyush/Ishu_SC1072279_piyush",
+   "qualifications_supported": "AGE,STANDARD_COMPANY_DEPARTMENT,STANDARD_EMPLOYMENT,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3029108,
+   "title": "FUN SURVEY",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION32352 --"
+ },
+ {
+   "id": 3029898,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,STANDARD_COMPANY_DEPARTMENT,STANDARD_EMPLOYMENT,STANDARD_JOB_TITLE,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3030620,
+   "title": "SC74999-US",
+   "qualifications_supported": "AGE,GENDER,ZIP,HISPANIC,ETHNICITY,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION23039 --,-- NO_TRANSLATION32352 --"
+ },
+ {
+   "id": 3036096,
+   "title": "C-Suite",
+   "qualifications_supported": "AGE,GENDER,STANDARD_COMPANY_REVENUE,STANDARD_EMPLOYMENT,STANDARD_INDUSTRY_PERSONAL,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": "-- NO_TRANSLATION90060 --"
+ },
+ {
+   "id": 3041714,
+   "title": "Teachers Survey",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT",
+   "qualifications_no_supported": "-- NO_TRANSLATION91193 --,-- NO_TRANSLATION114953 --,-- NO_TRANSLATION114955 --,-- NO_TRANSLATION114956 --,-- NO_TRANSLATION114959 --"
+ },
+ {
+   "id": 3042357,
+   "title": "Director+",
+   "qualifications_supported": "AGE,GENDER,STANDARD_COMPANY_REVENUE,STANDARD_COMPANY_DEPARTMENT,STANDARD_EMPLOYMENT,STANDARD_INDUSTRY_PERSONAL,STANDARD_JOB_TITLE,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": "-- NO_TRANSLATION93695 --"
+ },
+ {
+   "id": 3043697,
+   "title": "RFG2246943-001",
+   "qualifications_supported": "AGE,GENDER,ZIP,children_ages",
+   "qualifications_no_supported": "-- NO_TRANSLATION29228 --"
+ },
+ {
+   "id": 3045397,
+   "title": "Teachers Survey",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT",
+   "qualifications_no_supported": "-- NO_TRANSLATION91193 --,-- NO_TRANSLATION114953 --,-- NO_TRANSLATION114955 --,-- NO_TRANSLATION114956 --,-- NO_TRANSLATION114959 --"
+ },
+ {
+   "id": 3047691,
+   "title": "Comparte tus opiniones en 2019!",
+   "qualifications_supported": "AGE,GENDER,ZIP,HISPANIC",
+   "qualifications_no_supported": "-- NO_TRANSLATION643 --,-- NO_TRANSLATION32352 --"
+ },
+ {
+   "id": 3049424,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3050182,
+   "title": "Directors",
+   "qualifications_supported": "AGE,GENDER,STANDARD_COMPANY_REVENUE,STANDARD_EMPLOYMENT,STANDARD_INDUSTRY_PERSONAL,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": "-- NO_TRANSLATION90055 --"
+ },
+ {
+   "id": 3050196,
+   "title": "CA Study Mar-19",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,STATE",
+   "qualifications_no_supported": "-- NO_TRANSLATION32352 --"
+ },
+ {
+   "id": 3053201,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3055988,
+   "title": "20256_US",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3059466,
+   "title": "Provocative Survey",
+   "qualifications_supported": "AGE,GENDER,ZIP,HISPANIC,ETHNICITY",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3060968,
+   "title": "110306 Amazon Fashion Prime Conversion Exploration",
+   "qualifications_supported": "AGE,GENDER,REGION",
+   "qualifications_no_supported": "-- NO_TRANSLATION115615 --"
+ },
+ {
+   "id": 3062051,
+   "title": "FUN SURVEY",
+   "qualifications_supported": "AGE,GENDER,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3062666,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,STANDARD_AUTO_PURCHASE_TYPE",
+   "qualifications_no_supported": "-- NO_TRANSLATION643 --,-- NO_TRANSLATION647 --,-- NO_TRANSLATION648 --,-- NO_TRANSLATION715 --"
+ },
+ {
+   "id": 3063135,
+   "title": "MAIN 505968 - Fidelity PI Loyalty - 18-101165-01-03-S19001052",
+   "qualifications_supported": "AGE,GENDER,REGION",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3063342,
+   "title": "USC668613B",
+   "qualifications_supported": "AGE,GENDER,REGION",
+   "qualifications_no_supported": "-- NO_TRANSLATION7682 --"
+ },
+ {
+   "id": 3063345,
+   "title": "USC668613B",
+   "qualifications_supported": "AGE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3063699,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,STATE,ETHNICITY,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION93687 --,-- NO_TRANSLATION105016 --"
+ },
+ {
+   "id": 3064792,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3065532,
+   "title": "ITDMs",
+   "qualifications_supported": "AGE,GENDER,STANDARD_COMPANY_REVENUE,STANDARD_EMPLOYMENT,STANDARD_B2B_DECISION_MAKER,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": "-- NO_TRANSLATION90058 --"
+ },
+ {
+   "id": 3067544,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3069499,
+   "title": "Home Entertainment Dvd Vhs Survey",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3069660,
+   "title": "Copy SC 1",
+   "qualifications_supported": "AGE,GENDER,STATE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3070385,
+   "title": "General Survey",
+   "qualifications_supported": "AGE,GENDER,DMA,STANDARD_HHI_US",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3071436,
+   "title": "Riveting Survey",
+   "qualifications_supported": "AGE,GENDER,ZIP,HISPANIC,ETHNICITY",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3071594,
+   "title": "General Study",
+   "qualifications_supported": "AGE,GENDER,STANDARD_RELATIONSHIP",
+   "qualifications_no_supported": "-- NO_TRANSLATION640 --"
+ },
+ {
+   "id": 3073755,
+   "title": "Lifestyle Survey",
+   "qualifications_supported": "AGE,GENDER,ZIP",
+   "qualifications_no_supported": "-- NO_TRANSLATION93702 --"
+ },
+ {
+   "id": 3073758,
+   "title": "Lifestyle Survey",
+   "qualifications_supported": "AGE,GENDER,ZIP",
+   "qualifications_no_supported": "-- NO_TRANSLATION93702 --"
+ },
+ {
+   "id": 3074040,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3074396,
+   "title": "SCPO 51314 Dua_SC1089616_Rishabh",
+   "qualifications_supported": "AGE,GENDER,STANDARD_COMPANY_REVENUE,STANDARD_EMPLOYMENT,STANDARD_B2B_DECISION_MAKER,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3074531,
+   "title": "Other Survey",
+   "qualifications_supported": "STANDARD_COMPANY_REVENUE,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3077907,
+   "title": "General Survey",
+   "qualifications_supported": "GENDER,STATE",
+   "qualifications_no_supported": "-- NO_TRANSLATION81647 --"
+ },
+ {
+   "id": 3078722,
+   "title": "GWS22679_USA_V3",
+   "qualifications_supported": "AGE,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3079606,
+   "title": "FUN SURVEY",
+   "qualifications_supported": "AGE,GENDER,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3081214,
+   "title": "Survey",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,STANDARD_HHI_US",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3082320,
+   "title": "20300_US",
+   "qualifications_supported": "AGE,GENDER,STATE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3082431,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3082446,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3083020,
+   "title": "SCPO50558 Dua_SC1097685_Rishabh",
+   "qualifications_supported": "AGE,GENDER,ZIP,STANDARD_EMPLOYMENT,MS_is_mobile,STANDARD_JOB_TITLE,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3083422,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,DMA,STANDARD_EMPLOYMENT,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": "-- NO_TRANSLATION88196 --"
+ },
+ {
+   "id": 3083531,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,STANDARD_COMPANY_DEPARTMENT,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3083618,
+   "title": "26580",
+   "qualifications_supported": "AGE,GENDER,STANDARD_COMPANY_DEPARTMENT,STANDARD_INDUSTRY_PERSONAL,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3083677,
+   "title": "MC-50746 SL Piyush/Ishu_SC1098263_piyush",
+   "qualifications_supported": "AGE,STANDARD_COMPANY_DEPARTMENT,STANDARD_EMPLOYMENT,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3083804,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,ETHNICITY,STANDARD_DIAGNOSED_AILMENTS_I,STANDARD_INDUSTRY_PERSONAL",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3087405,
+   "title": "Pittsburgh 2019 2",
+   "qualifications_supported": "AGE,GENDER,DMA",
+   "qualifications_no_supported": "-- NO_TRANSLATION643 --"
+ },
+ {
+   "id": 3087469,
+   "title": "Sacramento Music Study",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3090180,
+   "title": "FUN SURVEY",
+   "qualifications_supported": "AGE,GENDER,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3090270,
+   "title": "FUN SURVEY",
+   "qualifications_supported": "AGE,GENDER,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3092953,
+   "title": "FUN SURVEY",
+   "qualifications_supported": "AGE,GENDER,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3093256,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3096539,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,DMA,ETHNICITY,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3096761,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,DMA,STANDARD_EMPLOYMENT,STANDARD_JOB_TITLE,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": "-- NO_TRANSLATION88196 --"
+ },
+ {
+   "id": 3099513,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY",
+   "qualifications_no_supported": "-- NO_TRANSLATION92166 --,-- NO_TRANSLATION113990 --"
+ },
+ {
+   "id": 3099554,
+   "title": "Exciting Survey",
+   "qualifications_supported": "AGE,GENDER,ZIP,HISPANIC,ETHNICITY",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3100152,
+   "title": "Knoxville 2019 Men II",
+   "qualifications_supported": "AGE,GENDER,ZIP,ETHNICITY,STANDARD_INDUSTRY_PERSONAL",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3100211,
+   "title": "Genpop_US",
+   "qualifications_supported": "AGE,DMA,STANDARD_EDUCATION",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3100475,
+   "title": "SCPO 50730 Versha_SC1101026_Versha",
+   "qualifications_supported": "AGE,ZIP,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3101382,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3101822,
+   "title": "128658 URGENT: Qual2966-0130Industries- Precision",
+   "qualifications_supported": "AGE,ZIP",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3102861,
+   "title": "SCPO 51549 Dua_SC1105137_Rishabh",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": "-- NO_TRANSLATION3920 --"
+ },
+ {
+   "id": 3102867,
+   "title": "SCPO 51549 Dua_SC1105170_Rishabh",
+   "qualifications_supported": "AGE,GENDER,MS_is_mobile",
+   "qualifications_no_supported": "-- NO_TRANSLATION3920 --"
+ },
+ {
+   "id": 3103475,
+   "title": "Entertainment Movies Music Tv Etc Survey",
+   "qualifications_supported": "AGE,GENDER,DMA",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3104328,
+   "title": "C-level Federal Government",
+   "qualifications_supported": "STANDARD_JOB_TITLE",
+   "qualifications_no_supported": "-- NO_TRANSLATION81265 --"
+ },
+ {
+   "id": 3105423,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA,ETHNICITY,STANDARD_EDUCATION,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3106981,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT,STANDARD_INDUSTRY_PERSONAL,STANDARD_JOB_TITLE,STANDARD_NO_OF_EMPLOYEES,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION92961 --,-- NO_TRANSLATION93687 --"
+ },
+ {
+   "id": 3108816,
+   "title": "Work Survey",
+   "qualifications_supported": "AGE,GENDER,REGION,STANDARD_EMPLOYMENT",
+   "qualifications_no_supported": "-- NO_TRANSLATION105720 --,-- NO_TRANSLATION110736 --,-- NO_TRANSLATION112829 --,-- NO_TRANSLATION112831 --,-- NO_TRANSLATION112836 --,-- NO_TRANSLATION112859 --,-- NO_TRANSLATION112860 --"
+ },
+ {
+   "id": 3110732,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,STANDARD_COMPANY_REVENUE,STANDARD_EMPLOYMENT,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": "-- NO_TRANSLATION63314 --,-- NO_TRANSLATION91091 --"
+ },
+ {
+   "id": 3111364,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3113335,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3115115,
+   "title": "Other Survey",
+   "qualifications_supported": "",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3117203,
+   "title": "365684_US_CBSA Tracker_March'19",
+   "qualifications_supported": "AGE,DMA,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3117784,
+   "title": "Fun Survey! You have been selected for a new survey!",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION,STANDARD_HHI_US",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3117993,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA,ETHNICITY,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3118093,
+   "title": "New Survey!",
+   "qualifications_supported": "AGE,GENDER,ZIP,HISPANIC,ETHNICITY,REGION,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3118389,
+   "title": "FUN SURVEY",
+   "qualifications_supported": "AGE,GENDER,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3119474,
+   "title": "128738 Qual1878-1214Grasshopper | Precision Refresh_123093",
+   "qualifications_supported": "AGE,STANDARD_EMPLOYMENT",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3119503,
+   "title": "473315 - Cap One Auto Finance Tracker English - United States - Houston Non Rejectors",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA,ETHNICITY",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3121163,
+   "title": "business-to-business organization C level executives",
+   "qualifications_supported": "AGE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3123492,
+   "title": "Other Survey :: Clone",
+   "qualifications_supported": "AGE,STANDARD_AUTO_PURCHASE_TYPE",
+   "qualifications_no_supported": "-- NO_TRANSLATION643 --,-- NO_TRANSLATION647 --,-- NO_TRANSLATION648 --,-- NO_TRANSLATION715 --,-- NO_TRANSLATION3919 --,-- NO_TRANSLATION3920 --"
+ },
+ {
+   "id": 3123588,
+   "title": "Fun Survey! ",
+   "qualifications_supported": "AGE,STANDARD_B2B_DECISION_MAKER,STANDARD_INDUSTRY_PERSONAL,STANDARD_JOB_TITLE,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3123646,
+   "title": "SCPO 50730 Versha_SC1114763_Versha",
+   "qualifications_supported": "AGE,ZIP",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3124440,
+   "title": "Vision Campaign_Developers",
+   "qualifications_supported": "AGE,STANDARD_COMPANY_DEPARTMENT,STANDARD_EMPLOYMENT,MS_is_mobile,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3124444,
+   "title": "Vision Campaign_ITDMs",
+   "qualifications_supported": "AGE,STANDARD_EMPLOYMENT,STANDARD_B2B_DECISION_MAKER,MS_is_mobile,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3124548,
+   "title": "Vision Campaign_BDM",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT,STANDARD_B2B_DECISION_MAKER,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3125360,
+   "title": "10452045",
+   "qualifications_supported": "AGE,GENDER,STANDARD_COMPANY_REVENUE,STANDARD_B2B_DECISION_MAKER,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3126047,
+   "title": "C-level titles with Revenue $1B+",
+   "qualifications_supported": "AGE,GENDER,STANDARD_COMPANY_REVENUE,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3126064,
+   "title": "C-level titles with Revenue $1B+",
+   "qualifications_supported": "AGE,GENDER,STANDARD_COMPANY_REVENUE,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3126829,
+   "title": "Manager+ in IT, legal, security departments",
+   "qualifications_supported": "STANDARD_COMPANY_REVENUE,STANDARD_B2B_DECISION_MAKER,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3127708,
+   "title": "RFG1544384-002",
+   "qualifications_supported": "AGE,GENDER,STATE",
+   "qualifications_no_supported": "-- NO_TRANSLATION756 --"
+ },
+ {
+   "id": 3128045,
+   "title": "26639",
+   "qualifications_supported": "AGE,GENDER,STANDARD_COMPANY_DEPARTMENT,STANDARD_INDUSTRY_PERSONAL,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3128623,
+   "title": "FUN SURVEY",
+   "qualifications_supported": "AGE,GENDER,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3129195,
+   "title": "MC-50746 IaaS Piyush/Ishu_SC1072279_piyush",
+   "qualifications_supported": "AGE,STANDARD_COMPANY_DEPARTMENT,STANDARD_EMPLOYMENT,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3130428,
+   "title": "Restaurant DMs",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,STANDARD_COMPANY_REVENUE,STANDARD_EMPLOYMENT,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": "-- NO_TRANSLATION73429 --,-- NO_TRANSLATION79163 --"
+ },
+ {
+   "id": 3130609,
+   "title": "C-Level_US",
+   "qualifications_supported": "AGE,STANDARD_COMPANY_REVENUE,STANDARD_EMPLOYMENT,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3130761,
+   "title": "20348_US_V2",
+   "qualifications_supported": "AGE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3131303,
+   "title": "Other Survey :: Clone",
+   "qualifications_supported": "AGE,GENDER,STATE,REGION",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3131512,
+   "title": "B2B_US-fresh",
+   "qualifications_supported": "AGE,STANDARD_COMPANY_DEPARTMENT,STANDARD_EMPLOYMENT",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3132280,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3132500,
+   "title": "Fun Online Music Study - 1",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA,ETHNICITY",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3132627,
+   "title": "General Survey",
+   "qualifications_supported": "AGE,GENDER,REGION",
+   "qualifications_no_supported": "-- NO_TRANSLATION112964 --"
+ },
+ {
+   "id": 3132786,
+   "title": "Fun Survey! You have been selected for a new survey!",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,STANDARD_HHI_US",
+   "qualifications_no_supported": "-- NO_TRANSLATION101 --,-- NO_TRANSLATION641 --"
+ },
+ {
+   "id": 3132796,
+   "title": "General Study",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,STANDARD_HHI_US",
+   "qualifications_no_supported": "-- NO_TRANSLATION730 --"
+ },
+ {
+   "id": 3132910,
+   "title": "Fun Survey! You have been selected for a new survey!",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,STANDARD_HHI_US",
+   "qualifications_no_supported": "-- NO_TRANSLATION101 --,-- NO_TRANSLATION641 --"
+ },
+ {
+   "id": 3133491,
+   "title": "Online Music Study - 2 ",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA,ETHNICITY",
+   "qualifications_no_supported": "-- NO_TRANSLATION92961 --"
+ },
+ {
+   "id": 3133598,
+   "title": "20375_US1",
+   "qualifications_supported": "AGE,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3133782,
+   "title": "General Survey",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA,ETHNICITY",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3134145,
+   "title": "MC-51173 Piyush Mentoring 26/03 Fulcrum Manual updated Link 2",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT,STANDARD_B2B_DECISION_MAKER,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": "-- NO_TRANSLATION82971 --"
+ },
+ {
+   "id": 3134586,
+   "title": "20390_US_B",
+   "qualifications_supported": "AGE,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3134629,
+   "title": "SCPO 51507 VSL Teen_SC1102537_Vishal",
+   "qualifications_supported": "AGE,ZIP,children_ages",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3134780,
+   "title": "Sacramento Music Study",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3134808,
+   "title": "20337_US",
+   "qualifications_supported": "AGE,DMA",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3136057,
+   "title": "Other Survey :: Clone",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": "-- NO_TRANSLATION93521 --,-- NO_TRANSLATION115881 --"
+ },
+ {
+   "id": 3136183,
+   "title": "191412 2",
+   "qualifications_supported": "AGE,STANDARD_COMPANY_DEPARTMENT,STANDARD_EMPLOYMENT,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3137750,
+   "title": "Po#7994 : US Podcast English - United States - Primary",
+   "qualifications_supported": "AGE,GENDER,STATE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3138434,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,STANDARD_DIAGNOSED_AILMENTS_I,MS_is_tablet,MS_is_mobile",
+   "qualifications_no_supported": "-- NO_TRANSLATION760 --,-- NO_TRANSLATION765 --"
+ },
+ {
+   "id": 3139390,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,STANDARD_COMPANY_REVENUE,STANDARD_COMPANY_DEPARTMENT,STANDARD_EMPLOYMENT,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3139423,
+   "title": "Knoxville Men 18+ 2019",
+   "qualifications_supported": "AGE,GENDER,ZIP,ETHNICITY,STANDARD_INDUSTRY_PERSONAL",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3139839,
+   "title": "BDMs",
+   "qualifications_supported": "AGE,GENDER,STANDARD_COMPANY_DEPARTMENT,STANDARD_EMPLOYMENT,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": "-- NO_TRANSLATION90061 --"
+ },
+ {
+   "id": 3139911,
+   "title": "20403_US",
+   "qualifications_supported": "AGE,GENDER,DMA",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3140242,
+   "title": "Other Survey :: Clone :: Clone",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT",
+   "qualifications_no_supported": "-- NO_TRANSLATION93519 --"
+ },
+ {
+   "id": 3140319,
+   "title": "Other Survey :: Clone :: Clone :: Clone",
+   "qualifications_supported": "AGE,STATE,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION639 --,-- NO_TRANSLATION105013 --"
+ },
+ {
+   "id": 3140337,
+   "title": "Other Survey :: Clone :: Clone :: Clone :: Clone",
+   "qualifications_supported": "AGE,STATE,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION639 --,-- NO_TRANSLATION105013 --"
+ },
+ {
+   "id": 3140392,
+   "title": "Other Survey :: Clone :: Clone :: Clone :: Clone :: Clone",
+   "qualifications_supported": "AGE,STATE,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION639 --,-- NO_TRANSLATION105013 --"
+ },
+ {
+   "id": 3140403,
+   "title": "Other Survey :: Clone",
+   "qualifications_supported": "AGE,GENDER,STATE,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION639 --,-- NO_TRANSLATION105013 --"
+ },
+ {
+   "id": 3140621,
+   "title": "Other Survey :: Clone :: Clone :: Clone",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3140638,
+   "title": "PF19-0127 :: Clone",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION,STANDARD_EMPLOYMENT,STANDARD_INDUSTRY_PERSONAL",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3141242,
+   "title": "GWS23162_US_V1",
+   "qualifications_supported": "AGE,GENDER,STANDARD_COMPANY_DEPARTMENT",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3141608,
+   "title": "B2B",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION,STANDARD_COMPANY_DEPARTMENT,STANDARD_INDUSTRY_PERSONAL,STANDARD_JOB_TITLE,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3142255,
+   "title": "IBM LOB & ITDMs/BDMs_USA",
+   "qualifications_supported": "AGE,STANDARD_EMPLOYMENT,STANDARD_B2B_DECISION_MAKER,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": "-- NO_TRANSLATION79872 --"
+ },
+ {
+   "id": 3142880,
+   "title": "MC-50746 NGF Piyush/Ishu_SC1122593_piyush",
+   "qualifications_supported": "AGE,STANDARD_COMPANY_DEPARTMENT,STANDARD_EMPLOYMENT,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3143626,
+   "title": "SCPO 51314 Dua_SC1089616_Rishabh",
+   "qualifications_supported": "AGE,GENDER,STANDARD_COMPANY_REVENUE,STANDARD_EMPLOYMENT,STANDARD_B2B_DECISION_MAKER,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3143814,
+   "title": "General Survey",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3144199,
+   "title": "Fun New Survey!",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,REGION",
+   "qualifications_no_supported": "-- NO_TRANSLATION32352 --"
+ },
+ {
+   "id": 3144672,
+   "title": "B2B_US",
+   "qualifications_supported": "AGE,STANDARD_COMPANY_REVENUE,STANDARD_COMPANY_DEPARTMENT,STANDARD_EMPLOYMENT,STANDARD_INDUSTRY_PERSONAL,MS_is_mobile,STANDARD_JOB_TITLE,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3144728,
+   "title": "SBOs_US",
+   "qualifications_supported": "AGE,STANDARD_EMPLOYMENT,STANDARD_INDUSTRY_PERSONAL,MS_is_mobile,STANDARD_JOB_TITLE,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3144904,
+   "title": "26676",
+   "qualifications_supported": "AGE,GENDER,STANDARD_COMPANY_DEPARTMENT,STANDARD_INDUSTRY_PERSONAL,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3145105,
+   "title": "General Study",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,STANDARD_EMPLOYMENT,STANDARD_B2B_DECISION_MAKER,MS_is_mobile",
+   "qualifications_no_supported": "-- NO_TRANSLATION86103 --"
+ },
+ {
+   "id": 3145166,
+   "title": "Business Products Survey",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT",
+   "qualifications_no_supported": "-- NO_TRANSLATION92166 --,-- NO_TRANSLATION93521 --"
+ },
+ {
+   "id": 3146326,
+   "title": "Fun Survey! :: Clone",
+   "qualifications_supported": "AGE,GENDER,DMA",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3146336,
+   "title": "Fun Survey! :: Clone",
+   "qualifications_supported": "AGE,GENDER,DMA",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3146364,
+   "title": "Other Survey! :: Clone",
+   "qualifications_supported": "AGE,GENDER,DMA",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3148326,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,STANDARD_EMPLOYMENT,STANDARD_B2B_DECISION_MAKER,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": "-- NO_TRANSLATION643 --"
+ },
+ {
+   "id": 3148622,
+   "title": "This is a fun survey!",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION,STANDARD_HHI_US",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3149337,
+   "title": "4264508",
+   "qualifications_supported": "AGE,GENDER,ZIP,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION29228 --"
+ },
+ {
+   "id": 3149352,
+   "title": "GWS23094_V3",
+   "qualifications_supported": "AGE,DMA",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3149553,
+   "title": "Other Survey ",
+   "qualifications_supported": "STANDARD_COMPANY_REVENUE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3149592,
+   "title": "General Survey :: Clone :: Clone",
+   "qualifications_supported": "AGE,GENDER,ETHNICITY,STANDARD_HHI_US",
+   "qualifications_no_supported": "-- NO_TRANSLATION39037 --"
+ },
+ {
+   "id": 3149666,
+   "title": "Fun Survey! :: Clone :: Clone",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3149783,
+   "title": "General Survey :: Clone",
+   "qualifications_supported": "AGE,GENDER,DMA,STANDARD_HHI_US",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3149970,
+   "title": "RFG2469831-001",
+   "qualifications_supported": "AGE,GENDER,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": "-- NO_TRANSLATION103188 --"
+ },
+ {
+   "id": 3150045,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3150078,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3150505,
+   "title": "Other Survey :: Clone",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3150625,
+   "title": "Office Supplies",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT,STANDARD_INDUSTRY_PERSONAL",
+   "qualifications_no_supported": "-- NO_TRANSLATION120 --"
+ },
+ {
+   "id": 3150811,
+   "title": "DB_Genpop_US",
+   "qualifications_supported": "AGE,STATE,STANDARD_EDUCATION,STANDARD_EMPLOYMENT,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3152131,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,REGION,STANDARD_EMPLOYMENT,STANDARD_B2B_DECISION_MAKER",
+   "qualifications_no_supported": "-- NO_TRANSLATION643 --,-- NO_TRANSLATION92961 --"
+ },
+ {
+   "id": 3152652,
+   "title": "FUN SURVEY",
+   "qualifications_supported": "AGE,GENDER,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3152682,
+   "title": "Native American Television Study",
+   "qualifications_supported": "AGE,STATE,ETHNICITY",
+   "qualifications_no_supported": "-- NO_TRANSLATION93687 --"
+ },
+ {
+   "id": 3153374,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,STANDARD_EDUCATION,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3153497,
+   "title": "Other Survey :: Clone :: Clone :: Clone",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT",
+   "qualifications_no_supported": "-- NO_TRANSLATION93519 --"
+ },
+ {
+   "id": 3153706,
+   "title": "9030188_II",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,STATE,ETHNICITY,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION63258 --,-- NO_TRANSLATION63260 --,-- NO_TRANSLATION74977 --,-- NO_TRANSLATION85269 --"
+ },
+ {
+   "id": 3153818,
+   "title": "MC-51173 Piyush Mentoring 28/03 Fulcrum Manual  :: Clone",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": "-- NO_TRANSLATION82971 --"
+ },
+ {
+   "id": 3154113,
+   "title": "Other Survey :: DC",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA,ETHNICITY,STANDARD_EDUCATION,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3154195,
+   "title": "Survey",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION,STANDARD_EDUCATION,STANDARD_HHI_US",
+   "qualifications_no_supported": "-- NO_TRANSLATION85164 --"
+ },
+ {
+   "id": 3154427,
+   "title": "Healthcare Pharmaceuticals Survey 1845932 :: Clone",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": "-- NO_TRANSLATION760 --,-- NO_TRANSLATION13159 --,-- NO_TRANSLATION60795 --"
+ },
+ {
+   "id": 3156272,
+   "title": "201912241_US Food Study",
+   "qualifications_supported": "AGE,GENDER,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3156423,
+   "title": "Enthralling Survey",
+   "qualifications_supported": "AGE,GENDER,ZIP,HISPANIC,ETHNICITY",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3156425,
+   "title": "Enthralling Survey",
+   "qualifications_supported": "AGE,GENDER,ZIP,HISPANIC,ETHNICITY",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3157402,
+   "title": "Qual2966-0313Smilepay2.0 | a0f2J00000Cmu0XQAR English - United States - Primary :: Clone :: Clone :: Clone",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,STANDARD_RELATIONSHIP,STANDARD_EDUCATION,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION3708 --,-- NO_TRANSLATION104260 --"
+ },
+ {
+   "id": 3157672,
+   "title": "Pittsburgh 2019 3",
+   "qualifications_supported": "AGE,GENDER,DMA",
+   "qualifications_no_supported": "-- NO_TRANSLATION643 --"
+ },
+ {
+   "id": 3157835,
+   "title": "26697-US2_1",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3157876,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3157993,
+   "title": "US Value Males",
+   "qualifications_supported": "AGE,GENDER,STATE,REGION",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3158060,
+   "title": "SCPO 51549 Dua_SC1105137_Rishabh",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": "-- NO_TRANSLATION3920 --"
+ },
+ {
+   "id": 3158109,
+   "title": "SCPO 51549 Dua_SC1105137_Rishabh",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": "-- NO_TRANSLATION3920 --"
+ },
+ {
+   "id": 3158438,
+   "title": "Office Supplies",
+   "qualifications_supported": "AGE,GENDER,ZIP,STANDARD_EMPLOYMENT",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3158837,
+   "title": "Interesting Survey!",
+   "qualifications_supported": "AGE,GENDER,ZIP,HISPANIC,ETHNICITY",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3158948,
+   "title": "MC-50746 Network Piyush/Ishu_SC1072281_piyush",
+   "qualifications_supported": "AGE,STANDARD_COMPANY_DEPARTMENT,STANDARD_EMPLOYMENT,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3158991,
+   "title": "General Survey",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,STANDARD_EDUCATION",
+   "qualifications_no_supported": "-- NO_TRANSLATION116462 --"
+ },
+ {
+   "id": 3159011,
+   "title": "MC-50746 Network Piyush/Ishu_SC1072281_piyush",
+   "qualifications_supported": "AGE,STANDARD_COMPANY_DEPARTMENT,STANDARD_EMPLOYMENT,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3159062,
+   "title": "Online Music Study - 4 ",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA,ETHNICITY",
+   "qualifications_no_supported": "-- NO_TRANSLATION90058 --"
+ },
+ {
+   "id": 3159116,
+   "title": "Fun Online Music Study - 2 ",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA,ETHNICITY",
+   "qualifications_no_supported": "-- NO_TRANSLATION90061 --"
+ },
+ {
+   "id": 3159137,
+   "title": "Fun Online Music Study - 4 ",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA,ETHNICITY",
+   "qualifications_no_supported": "-- NO_TRANSLATION93691 --"
+ },
+ {
+   "id": 3159734,
+   "title": "11779-ERP DMs in US- 29 march",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": "-- NO_TRANSLATION47028 --,-- NO_TRANSLATION78425 --,-- NO_TRANSLATION100092 --,-- NO_TRANSLATION102557 --,-- NO_TRANSLATION116369 --"
+ },
+ {
+   "id": 3159868,
+   "title": "DB_ITDMs_US",
+   "qualifications_supported": "AGE,STANDARD_COMPANY_DEPARTMENT,STANDARD_EMPLOYMENT,STANDARD_JOB_TITLE,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3160006,
+   "title": "Healthcare Survey",
+   "qualifications_supported": "STANDARD_EMPLOYMENT,STANDARD_INDUSTRY_PERSONAL",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3160176,
+   "title": "BDMs",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT,STANDARD_B2B_DECISION_MAKER,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": "-- NO_TRANSLATION93687 --"
+ },
+ {
+   "id": 3160200,
+   "title": "ITDMs",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT,STANDARD_B2B_DECISION_MAKER,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": "-- NO_TRANSLATION90060 --"
+ },
+ {
+   "id": 3160282,
+   "title": "Other Survey :: Clone :: Clone :: Clone :: Clone",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3160363,
+   "title": "RFG2465138-001",
+   "qualifications_supported": "AGE,GENDER,DMA,children_ages,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION29228 --"
+ },
+ {
+   "id": 3160414,
+   "title": "SCPO: 51885 FL&TX_US_Ady_SC1126983_adnan",
+   "qualifications_supported": "AGE,GENDER,ZIP,DMA,children_ages,parental_status,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3160465,
+   "title": "Genpop",
+   "qualifications_supported": "AGE,DMA,STANDARD_RELATIONSHIP,STANDARD_EDUCATION,children_ages,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3160690,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": "-- NO_TRANSLATION17986 --"
+ },
+ {
+   "id": 3160694,
+   "title": "Other Survey :: Clone :: Clone",
+   "qualifications_supported": "AGE,GENDER,STANDARD_COMPANY_REVENUE,STANDARD_B2B_DECISION_MAKER,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3160745,
+   "title": "General Study",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA,ETHNICITY,STANDARD_HHI_US",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3160824,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,ZIP",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3160826,
+   "title": "Fun Survey! ",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,STANDARD_COMPANY_REVENUE,STANDARD_EMPLOYMENT,STANDARD_B2B_DECISION_MAKER,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION643 --"
+ },
+ {
+   "id": 3160841,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,STANDARD_DIAGNOSED_AILMENTS_I",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3160867,
+   "title": "69502 English - United States - Primary",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3161036,
+   "title": "Fun Survey! ",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION,STANDARD_INDUSTRY_PERSONAL,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION61190 --,-- NO_TRANSLATION61195 --,-- NO_TRANSLATION90575 --"
+ },
+ {
+   "id": 3161128,
+   "title": "General Survey :: Clone",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,STANDARD_EDUCATION",
+   "qualifications_no_supported": "-- NO_TRANSLATION111704 --"
+ },
+ {
+   "id": 3161300,
+   "title": "General Study",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA,ETHNICITY,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION647 --,-- NO_TRANSLATION105013 --"
+ },
+ {
+   "id": 3161425,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,STANDARD_DIAGNOSED_AILMENTS_I",
+   "qualifications_no_supported": "-- NO_TRANSLATION760 --,-- NO_TRANSLATION765 --"
+ },
+ {
+   "id": 3161478,
+   "title": "3735465",
+   "qualifications_supported": "AGE,GENDER,MS_is_mobile",
+   "qualifications_no_supported": "-- NO_TRANSLATION109584 --"
+ },
+ {
+   "id": 3161502,
+   "title": "SCPO51942 Shruti_SC1129993_Shruti",
+   "qualifications_supported": "AGE,GENDER,ZIP,HISPANIC,ETHNICITY",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3161785,
+   "title": "Other Survey :: Clone :: Clone :: Clone :: Clone",
+   "qualifications_supported": "AGE,ZIP",
+   "qualifications_no_supported": "-- NO_TRANSLATION115454 --"
+ },
+ {
+   "id": 3161890,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,ZIP",
+   "qualifications_no_supported": "-- NO_TRANSLATION747 --,-- NO_TRANSLATION78422 --,-- NO_TRANSLATION92961 --"
+ },
+ {
+   "id": 3161892,
+   "title": "PVProject11860_US_V1",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3162161,
+   "title": "SCPO51967 Shruti_SC1130833_Shruti",
+   "qualifications_supported": "AGE,GENDER,DMA",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3162192,
+   "title": "SCPO 51970 Ishu US_SC1131077_Ishub",
+   "qualifications_supported": "AGE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3162221,
+   "title": "Fun New Study!",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3162323,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,ZIP,HISPANIC,ETHNICITY,children_ages,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3163721,
+   "title": "Fun Survey! :: Clone",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION737 --,-- NO_TRANSLATION74875 --,-- NO_TRANSLATION78422 --,-- NO_TRANSLATION90061 --"
+ },
+ {
+   "id": 3165344,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,REGION,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION737 --,-- NO_TRANSLATION74875 --,-- NO_TRANSLATION78422 --,-- NO_TRANSLATION90061 --"
+ },
+ {
+   "id": 3165399,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,STATE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3165573,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,MS_is_tablet,MS_is_mobile,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION100274 --"
+ },
+ {
+   "id": 3166782,
+   "title": "20401_US_v01",
+   "qualifications_supported": "AGE,DMA",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3167401,
+   "title": "Home improvement professionals",
+   "qualifications_supported": "",
+   "qualifications_no_supported": "-- NO_TRANSLATION70522 --,-- NO_TRANSLATION79772 --"
+ },
+ {
+   "id": 3167686,
+   "title": "SC1134333_SCAPIUser",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA,ETHNICITY,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3167717,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA,ETHNICITY,MS_is_tablet,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3168291,
+   "title": "4311884",
+   "qualifications_supported": "AGE,GENDER,ETHNICITY,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3168297,
+   "title": "a0f2J00000DXDr5QAH | Qual3121-031519LifefuelsOneTeam English - United States - Primary :: Clone",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION,STANDARD_EDUCATION,STANDARD_HHI_US",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3168301,
+   "title": "General Survey",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3168320,
+   "title": "9010006co (474247)_April_2019",
+   "qualifications_supported": "AGE,GENDER,ZIP",
+   "qualifications_no_supported": "-- NO_TRANSLATION3920 --,-- NO_TRANSLATION111458 --"
+ },
+ {
+   "id": 3168334,
+   "title": "9010006bv (410999-OA)_April_2019",
+   "qualifications_supported": "AGE,ZIP,STANDARD_DIAGNOSED_AILMENTS_I",
+   "qualifications_no_supported": "-- NO_TRANSLATION91549 --"
+ },
+ {
+   "id": 3168338,
+   "title": "9010006bq (884384)_April_2019",
+   "qualifications_supported": "AGE,GENDER,ZIP",
+   "qualifications_no_supported": "-- NO_TRANSLATION83635 --,-- NO_TRANSLATION83669 --"
+ },
+ {
+   "id": 3168343,
+   "title": "9010006cd (444222)_April_2019",
+   "qualifications_supported": "AGE,ZIP",
+   "qualifications_no_supported": "-- NO_TRANSLATION760 --,-- NO_TRANSLATION100356 --"
+ },
+ {
+   "id": 3168349,
+   "title": "9010006cf (314044)_April_2019",
+   "qualifications_supported": "AGE,ZIP",
+   "qualifications_no_supported": "-- NO_TRANSLATION760 --,-- NO_TRANSLATION104258 --"
+ },
+ {
+   "id": 3168371,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,STANDARD_EDUCATION,STANDARD_COMPANY_REVENUE,STANDARD_EMPLOYMENT,STANDARD_INDUSTRY_PERSONAL,STANDARD_JOB_TITLE,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3170231,
+   "title": "3655",
+   "qualifications_supported": "AGE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3170258,
+   "title": "Genpop_USA_A",
+   "qualifications_supported": "AGE,ZIP,STANDARD_EDUCATION",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3170385,
+   "title": "Automotive Survey 1988742 :: Clone",
+   "qualifications_supported": "AGE,GENDER,DMA",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3170399,
+   "title": "SCPO51888 NIK US_SC1127105_Nikhil",
+   "qualifications_supported": "AGE,GENDER,STANDARD_COMPANY_REVENUE,STANDARD_EMPLOYMENT,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3170486,
+   "title": "DB_Vaccine pneumonia _US_GP",
+   "qualifications_supported": "AGE,ZIP",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3170499,
+   "title": "DB_IBR_US",
+   "qualifications_supported": "AGE,GENDER,ZIP",
+   "qualifications_no_supported": "-- NO_TRANSLATION3920 --"
+ },
+ {
+   "id": 3170553,
+   "title": "4089350",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": "-- NO_TRANSLATION17986 --,-- NO_TRANSLATION29228 --"
+ },
+ {
+   "id": 3170575,
+   "title": "Fun Survey! :: Clone ",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION,STANDARD_INDUSTRY_PERSONAL,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION78422 --,-- NO_TRANSLATION93691 --"
+ },
+ {
+   "id": 3170608,
+   "title": "DB_Pediatric Atopic Dermatitis_US",
+   "qualifications_supported": "AGE,ZIP,STANDARD_DIAGNOSED_AILMENTS_I,children_ages",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3170615,
+   "title": "Fun Survey! ",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION,STANDARD_INDUSTRY_PERSONAL,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION78422 --,-- NO_TRANSLATION93691 --"
+ },
+ {
+   "id": 3170639,
+   "title": "Other survey",
+   "qualifications_supported": "AGE,GENDER,ZIP",
+   "qualifications_no_supported": "-- NO_TRANSLATION760 --,-- NO_TRANSLATION29228 --"
+ },
+ {
+   "id": 3170645,
+   "title": "DB_Heart Failure_US",
+   "qualifications_supported": "AGE,ZIP",
+   "qualifications_no_supported": "-- NO_TRANSLATION3919 --"
+ },
+ {
+   "id": 3170687,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,ZIP",
+   "qualifications_no_supported": "-- NO_TRANSLATION3919 --,-- NO_TRANSLATION80881 --"
+ },
+ {
+   "id": 3170710,
+   "title": "4087903",
+   "qualifications_supported": "AGE,GENDER,ZIP",
+   "qualifications_no_supported": "-- NO_TRANSLATION29228 --,-- NO_TRANSLATION62852 --"
+ },
+ {
+   "id": 3170727,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,ZIP",
+   "qualifications_no_supported": "-- NO_TRANSLATION29228 --,-- NO_TRANSLATION106197 --"
+ },
+ {
+   "id": 3170920,
+   "title": "Other Survey :: Clone :: Clone :: Clone :: Clone :: Clone",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": "-- NO_TRANSLATION116382 --"
+ },
+ {
+   "id": 3171253,
+   "title": "RFG2480215-001",
+   "qualifications_supported": "AGE,GENDER,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3171523,
+   "title": "Survey",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION,STANDARD_EDUCATION,STANDARD_HHI_US",
+   "qualifications_no_supported": "-- NO_TRANSLATION85164 --"
+ },
+ {
+   "id": 3171598,
+   "title": "SCPO51940 Bev 360 Main Som/SSH_SC1129976_Imran",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION,MS_is_mobile,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3171612,
+   "title": "SCPO51940 SSH/SOM_iShop MAIN_SC1129988_Imran",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION,MS_is_mobile,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3171637,
+   "title": "SCPO51940 SSH/SOM_DINE MAIN_SC1129978_Imran",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION,MS_is_mobile,STANDARD_HHI_US_v2",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3171713,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION78422 --,-- NO_TRANSLATION92961 --"
+ },
+ {
+   "id": 3171901,
+   "title": "Study_15863761",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION,MS_is_mobile,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3172004,
+   "title": "Qual3883-0227BMOHValueProp_a0f2J00000Cn0ULQAZ English - United States - Primary",
+   "qualifications_supported": "AGE,GENDER,ZIP,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3172179,
+   "title": "Study_15863949",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION,MS_is_mobile,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3172459,
+   "title": "Study_15789806",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3172490,
+   "title": "Fun Survey! :: Clone :: Clone :: Clone",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EDUCATION,STANDARD_EMPLOYMENT,STANDARD_INDUSTRY_PERSONAL,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3172639,
+   "title": "Survey About You",
+   "qualifications_supported": "AGE,GENDER,ETHNICITY,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION61295 --,-- NO_TRANSLATION116600 --"
+ },
+ {
+   "id": 3172662,
+   "title": "NXTAFF_Genpop_3434",
+   "qualifications_supported": "AGE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3172858,
+   "title": "NEW Study for hartford!",
+   "qualifications_supported": "AGE,GENDER,ZIP,HISPANIC,ETHNICITY",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3172879,
+   "title": "Luxury Goods Consumers US English - United States - Primary",
+   "qualifications_supported": "STANDARD_HHI_US",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3172994,
+   "title": "Gen Pop",
+   "qualifications_supported": "AGE,GENDER,ZIP,HISPANIC,ETHNICITY,REGION,STANDARD_HHI_US",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3173087,
+   "title": "Developers_USA_III_Third wave",
+   "qualifications_supported": "AGE,STANDARD_COMPANY_DEPARTMENT,STANDARD_EMPLOYMENT,STANDARD_INDUSTRY_PERSONAL,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": "-- NO_TRANSLATION79869 --,-- NO_TRANSLATION87813 --"
+ },
+ {
+   "id": 3173257,
+   "title": "Fun Survey! :: Clone",
+   "qualifications_supported": "AGE,GENDER,ZIP,HISPANIC,ETHNICITY,REGION,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3173353,
+   "title": "Study_15443904",
+   "qualifications_supported": "AGE,GENDER,STATE",
+   "qualifications_no_supported": "-- NO_TRANSLATION756 --"
+ },
+ {
+   "id": 3173441,
+   "title": "NOA 10556 US Indianapolis City Zips---EXT UPLOAD",
+   "qualifications_supported": "AGE,GENDER,DMA,STANDARD_EMPLOYMENT,STANDARD_INDUSTRY_PERSONAL",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3173717,
+   "title": "General Survey",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3173751,
+   "title": "General Survey",
+   "qualifications_supported": "AGE,GENDER,DMA,STANDARD_HHI_US",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3173808,
+   "title": "Online Music Study - 4  ",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA,ETHNICITY",
+   "qualifications_no_supported": "-- NO_TRANSLATION92961 --"
+ },
+ {
+   "id": 3173946,
+   "title": "SCPO51942 Shruti_SC1129993_Shruti",
+   "qualifications_supported": "AGE,GENDER,ZIP,HISPANIC,ETHNICITY",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3174128,
+   "title": "New survey !",
+   "qualifications_supported": "AGE,GENDER,ZIP,HISPANIC,ETHNICITY,REGION,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION90055 --"
+ },
+ {
+   "id": 3174138,
+   "title": "Study_15869035",
+   "qualifications_supported": "AGE,GENDER,STANDARD_HOUSEHOLD_TYPE,parental_status,MS_is_mobile,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3174159,
+   "title": "20421_US_1",
+   "qualifications_supported": "AGE,GENDER,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3174283,
+   "title": "Business Products Survey",
+   "qualifications_supported": "AGE,STANDARD_INDUSTRY_PERSONAL",
+   "qualifications_no_supported": "-- NO_TRANSLATION116882 --"
+ },
+ {
+   "id": 3174346,
+   "title": "B9W-0848 Rideshare Brand Health Tracker Q2 2019 April_DMAs (River)",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA,ETHNICITY,STANDARD_HHI_US",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3174402,
+   "title": "New survey for you!",
+   "qualifications_supported": "AGE,GENDER,REGION",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3174465,
+   "title": "New Survey!",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,STANDARD_HHI_US",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3174635,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION,STANDARD_INDUSTRY_PERSONAL",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3174641,
+   "title": "General Study",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION",
+   "qualifications_no_supported": "-- NO_TRANSLATION32350 --"
+ },
+ {
+   "id": 3174671,
+   "title": "Work Survey",
+   "qualifications_supported": "AGE,GENDER,STANDARD_COMPANY_REVENUE,STANDARD_EMPLOYMENT,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3174988,
+   "title": "General Study",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,STANDARD_EDUCATION,STANDARD_HHI_US",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3175002,
+   "title": "Fun Survey! :: Clone :: Clone",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,STANDARD_DIAGNOSED_AILMENTS_I,STANDARD_HHI_US",
+   "qualifications_no_supported": "-- NO_TRANSLATION60795 --"
+ },
+ {
+   "id": 3175032,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,REGION,STANDARD_JOB_TITLE,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION61190 --,-- NO_TRANSLATION90061 --"
+ },
+ {
+   "id": 3175136,
+   "title": "Other Survey :: Clone",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EDUCATION,STANDARD_EMPLOYMENT,STANDARD_JOB_TITLE,STANDARD_NO_OF_EMPLOYEES,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3175187,
+   "title": "Fun Survey! ::",
+   "qualifications_supported": "AGE,GENDER,ZIP,HISPANIC,ETHNICITY,REGION,STANDARD_PRIMARY_DECISION_MAKER,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3175340,
+   "title": "RFG1956848-037",
+   "qualifications_supported": "AGE,GENDER,DMA,STANDARD_EDUCATION_v2,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION103188 --"
+ },
+ {
+   "id": 3175352,
+   "title": "20469_US",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3175410,
+   "title": "26711_1",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3175641,
+   "title": "Interesting Survey!",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION,STANDARD_EDUCATION,STANDARD_HHI_US",
+   "qualifications_no_supported": "-- NO_TRANSLATION61332 --"
+ },
+ {
+   "id": 3175752,
+   "title": "20470_US",
+   "qualifications_supported": "AGE,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3175778,
+   "title": "Study_15869576",
+   "qualifications_supported": "AGE,GENDER,ZIP,ETHNICITY",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3175882,
+   "title": "191510 Flint SL",
+   "qualifications_supported": "AGE,GENDER,DMA",
+   "qualifications_no_supported": "-- NO_TRANSLATION87907 --"
+ },
+ {
+   "id": 3175964,
+   "title": "191510 Chicago SL",
+   "qualifications_supported": "AGE,GENDER,DMA",
+   "qualifications_no_supported": "-- NO_TRANSLATION87907 --"
+ },
+ {
+   "id": 3176119,
+   "title": "Luxury Auto Study",
+   "qualifications_supported": "AGE,GENDER,STANDARD_RELATIONSHIP,STANDARD_HHI_US",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3177094,
+   "title": "SCPO51940 Bev 360 Main Som/SSH_SC1129976_Imran",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION,MS_is_mobile,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3177275,
+   "title": "Your opinion",
+   "qualifications_supported": "STATE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3177344,
+   "title": "Study_15863948",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION,MS_is_mobile,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3177492,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3177558,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,ETHNICITY,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3177604,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3177736,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3177837,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,ETHNICITY",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3177840,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3177872,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,ETHNICITY,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3177969,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3178109,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,ETHNICITY",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3178395,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3178549,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,ETHNICITY,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3178590,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,ETHNICITY,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3178626,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3178628,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,STANDARD_HHI_US,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3178788,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,ETHNICITY,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3178878,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3178914,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA,ETHNICITY,MS_is_tablet,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3179066,
+   "title": "Manager+ in IT, legal, security departments :: Clone",
+   "qualifications_supported": "STANDARD_COMPANY_REVENUE,STANDARD_B2B_DECISION_MAKER,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3179121,
+   "title": "C-level Federal Government :: Clone",
+   "qualifications_supported": "AGE,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": "-- NO_TRANSLATION81265 --"
+ },
+ {
+   "id": 3179826,
+   "title": "Healthcare Pharmaceuticals Survey 2068341 ",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": "-- NO_TRANSLATION24223 --"
+ },
+ {
+   "id": 3179911,
+   "title": "You have been selected for a new survey!",
+   "qualifications_supported": "AGE,GENDER,DMA",
+   "qualifications_no_supported": "-- NO_TRANSLATION61190 --"
+ },
+ {
+   "id": 3179912,
+   "title": "You have been selected for a new survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3180199,
+   "title": "Survey",
+   "qualifications_supported": "AGE,GENDER,ZIP,ETHNICITY",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3180439,
+   "title": "Qual3883-0227BMOHValueProp_a0f2J00000Cn0ULQAZ English - United States - Primary",
+   "qualifications_supported": "AGE,GENDER,ZIP,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3180577,
+   "title": "US_11214",
+   "qualifications_supported": "AGE,GENDER,STANDARD_COMPANY_REVENUE,STANDARD_COMPANY_DEPARTMENT,STANDARD_EMPLOYMENT,STANDARD_INDUSTRY_PERSONAL,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3180620,
+   "title": "Business roles English - United States - Primary",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT",
+   "qualifications_no_supported": "-- NO_TRANSLATION81947 --"
+ },
+ {
+   "id": 3180682,
+   "title": "26765",
+   "qualifications_supported": "AGE,GENDER,STANDARD_COMPANY_DEPARTMENT,STANDARD_INDUSTRY_PERSONAL,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3180696,
+   "title": "Work Survey",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3180777,
+   "title": "SUV Automobile Study :: Clone",
+   "qualifications_supported": "AGE,GENDER,REGION,MS_is_mobile",
+   "qualifications_no_supported": "-- NO_TRANSLATION648 --,-- NO_TRANSLATION115936 --,-- NO_TRANSLATION116349 --"
+ },
+ {
+   "id": 3180788,
+   "title": "General Survey ",
+   "qualifications_supported": "AGE,GENDER,ETHNICITY,STANDARD_EDUCATION,STANDARD_HHI_US",
+   "qualifications_no_supported": "-- NO_TRANSLATION39037 --"
+ },
+ {
+   "id": 3180868,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT,STANDARD_INDUSTRY_PERSONAL,STANDARD_JOB_TITLE,STANDARD_NO_OF_EMPLOYEES,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION92961 --,-- NO_TRANSLATION93687 --"
+ },
+ {
+   "id": 3180880,
+   "title": "201912254 - US Food Study_V1",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3180888,
+   "title": "Fun Survey! ",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT,STANDARD_INDUSTRY_PERSONAL,STANDARD_JOB_TITLE,STANDARD_NO_OF_EMPLOYEES,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION92961 --,-- NO_TRANSLATION93687 --"
+ },
+ {
+   "id": 3181102,
+   "title": "Knoxville 18-34 2019 III",
+   "qualifications_supported": "AGE,GENDER,ZIP,ETHNICITY,STANDARD_INDUSTRY_PERSONAL",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3181118,
+   "title": "Other survey",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3181273,
+   "title": "Qual1211-0201ExtendedStay - a0f2J00000CmgRcQAJ English - United States - Primary",
+   "qualifications_supported": "AGE,STATE,ETHNICITY,STANDARD_HHI_US",
+   "qualifications_no_supported": "-- NO_TRANSLATION61318 --"
+ },
+ {
+   "id": 3181308,
+   "title": "Qual3883-1031HispanicSpanishPrimar  - a0f2J00000DGVIqQAP\t English - United States - Primary",
+   "qualifications_supported": "AGE,HISPANIC",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3181309,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,ZIP,HISPANIC,DMA,ETHNICITY,REGION,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION61200 --"
+ },
+ {
+   "id": 3181373,
+   "title": "19951_US_VOL3",
+   "qualifications_supported": "AGE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3181377,
+   "title": "USC603014E",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION,STANDARD_EDUCATION,MS_is_mobile,STANDARD_HHI_US",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3181386,
+   "title": "Study_15681689",
+   "qualifications_supported": "AGE,GENDER,STATE",
+   "qualifications_no_supported": "-- NO_TRANSLATION98 --"
+ },
+ {
+   "id": 3181539,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION,STANDARD_EMPLOYMENT,STANDARD_JOB_TITLE,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3181630,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,STANDARD_EDUCATION,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION79813 --,-- NO_TRANSLATION91331 --"
+ },
+ {
+   "id": 3181743,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,STANDARD_COMPANY_REVENUE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3181772,
+   "title": "BR10784136",
+   "qualifications_supported": "AGE,GENDER,ETHNICITY,REGION,STANDARD_COMPANY_REVENUE,STANDARD_COMPANY_DEPARTMENT,STANDARD_INDUSTRY_PERSONAL,STANDARD_HHI_US,STANDARD_JOB_TITLE,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3181864,
+   "title": "Other Survey :: Clone",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,STANDARD_EDUCATION,STANDARD_COMPANY_REVENUE,STANDARD_COMPANY_DEPARTMENT,STANDARD_EMPLOYMENT,STANDARD_JOB_TITLE,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": "-- NO_TRANSLATION643 --"
+ },
+ {
+   "id": 3181975,
+   "title": "Other Survey :: Clone :: Clone :: Clone :: Clone :: Clone :: Clone",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": "-- NO_TRANSLATION116382 --"
+ },
+ {
+   "id": 3182023,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT,STANDARD_JOB_TITLE,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3182058,
+   "title": "Other Survey :: Clone :: Clone :: Clone :: Clone",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT",
+   "qualifications_no_supported": "-- NO_TRANSLATION93519 --"
+ },
+ {
+   "id": 3182083,
+   "title": "Employed people English - United States - Primary",
+   "qualifications_supported": "AGE,GENDER,STANDARD_COMPANY_REVENUE,STANDARD_EMPLOYMENT,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3182256,
+   "title": "SCPO-52023-US-KKS_SC1136533_Ketankumarsingh",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA,ETHNICITY",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3182263,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,STATE,ETHNICITY,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3182269,
+   "title": "Study about food products",
+   "qualifications_supported": "AGE,GENDER,ZIP,HISPANIC,ETHNICITY,REGION",
+   "qualifications_no_supported": "-- NO_TRANSLATION32352 --"
+ },
+ {
+   "id": 3182347,
+   "title": "General Survey",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": "-- NO_TRANSLATION51079 --,-- NO_TRANSLATION96023 --"
+ },
+ {
+   "id": 3182357,
+   "title": "SCPO52014 Shruti_SC1136302_Ketankumarsingh",
+   "qualifications_supported": "AGE,DMA",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3182423,
+   "title": "Estudio sobre productos de comida",
+   "qualifications_supported": "AGE,GENDER,ZIP,HISPANIC,ETHNICITY,REGION",
+   "qualifications_no_supported": "-- NO_TRANSLATION32352 --"
+ },
+ {
+   "id": 3182442,
+   "title": "Other Survey :: Clone :: Clone",
+   "qualifications_supported": "GENDER,STATE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3182531,
+   "title": "SCPO52014 Shruti_SC1140170_Ketankumarsingh",
+   "qualifications_supported": "AGE,DMA",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3182541,
+   "title": "G9 Comp English - United States - Primary",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3182579,
+   "title": "Other Survey :: Clone :: Clone :: Clone",
+   "qualifications_supported": "AGE,GENDER,STANDARD_INDUSTRY_PERSONAL",
+   "qualifications_no_supported": "-- NO_TRANSLATION116557 --"
+ },
+ {
+   "id": 3182799,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,STANDARD_COMPANY_REVENUE,STANDARD_COMPANY_DEPARTMENT,STANDARD_EMPLOYMENT,STANDARD_B2B_DECISION_MAKER,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": "-- NO_TRANSLATION116056 --"
+ },
+ {
+   "id": 3182860,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION,STANDARD_EMPLOYMENT,STANDARD_INDUSTRY_PERSONAL",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3182889,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA,ETHNICITY",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3182924,
+   "title": "CapOne SB Card_Hi Rev_New",
+   "qualifications_supported": "AGE,STANDARD_EMPLOYMENT,MS_is_mobile,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3183036,
+   "title": "One new survey",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION,MS_is_mobile",
+   "qualifications_no_supported": "-- NO_TRANSLATION760 --"
+ },
+ {
+   "id": 3183117,
+   "title": "Study_15887623",
+   "qualifications_supported": "AGE,ZIP",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3183149,
+   "title": "Online Music Study - 3  ",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA,ETHNICITY",
+   "qualifications_no_supported": "-- NO_TRANSLATION90058 --"
+ },
+ {
+   "id": 3183238,
+   "title": "SCPO 52070 VSL_SC1137970_Vishal",
+   "qualifications_supported": "AGE,GENDER,STATE,STANDARD_EDUCATION,STANDARD_HHI_US",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3183398,
+   "title": "10805785",
+   "qualifications_supported": "AGE,GENDER,ZIP,HISPANIC,ETHNICITY,REGION",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3183469,
+   "title": "Media Survey Washington, DC",
+   "qualifications_supported": "AGE,GENDER,ZIP,HISPANIC,ETHNICITY",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3183485,
+   "title": "Study_15525321",
+   "qualifications_supported": "AGE,GENDER,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3183955,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,REGION,STANDARD_HHI_US,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3184063,
+   "title": "Other Survey 1874054  ::",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION,STANDARD_HOME_OWNER",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3184079,
+   "title": "MSFT Developers_USA_New",
+   "qualifications_supported": "AGE,GENDER,STANDARD_COMPANY_DEPARTMENT,STANDARD_EMPLOYMENT",
+   "qualifications_no_supported": "-- NO_TRANSLATION93521 --"
+ },
+ {
+   "id": 3184114,
+   "title": "Native American Television Study",
+   "qualifications_supported": "AGE,STATE,ETHNICITY",
+   "qualifications_no_supported": "-- NO_TRANSLATION93687 --"
+ },
+ {
+   "id": 3184120,
+   "title": "10807077",
+   "qualifications_supported": "AGE,GENDER,ZIP,HISPANIC,ETHNICITY,REGION",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3184197,
+   "title": "HP Brand Health Tracker_USA",
+   "qualifications_supported": "AGE,STANDARD_EMPLOYMENT,STANDARD_B2B_DECISION_MAKER",
+   "qualifications_no_supported": "-- NO_TRANSLATION79872 --"
+ },
+ {
+   "id": 3184329,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION",
+   "qualifications_no_supported": "-- NO_TRANSLATION742 --"
+ },
+ {
+   "id": 3184353,
+   "title": "10804877",
+   "qualifications_supported": "AGE,STANDARD_INDUSTRY_PERSONAL,STANDARD_JOB_TITLE,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3184374,
+   "title": "Study_15886373",
+   "qualifications_supported": "AGE,GENDER,ZIP,HISPANIC,ETHNICITY",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3184674,
+   "title": "14098 Single HHI 50K",
+   "qualifications_supported": "AGE,GENDER,ZIP,STANDARD_RELATIONSHIP,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3184688,
+   "title": "SCPO52124 Shruti_SC1141109_Shruti",
+   "qualifications_supported": "AGE,GENDER,REGION",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3184726,
+   "title": "Fun Survey! :: Clone :: Clone",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,STATE,ETHNICITY,REGION,STANDARD_EDUCATION,STANDARD_EMPLOYMENT,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION634 --,-- NO_TRANSLATION32350 --"
+ },
+ {
+   "id": 3184806,
+   "title": "General Survey",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY",
+   "qualifications_no_supported": "-- NO_TRANSLATION75612 --"
+ },
+ {
+   "id": 3184818,
+   "title": "Study_15887379",
+   "qualifications_supported": "AGE,GENDER,ZIP",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3184819,
+   "title": "MC-51527 US Piyush/VSL Latest_SC1141187_Vishal",
+   "qualifications_supported": "AGE,GENDER,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3184845,
+   "title": "Fun Survey! ",
+   "qualifications_supported": "AGE,GENDER,ZIP,HISPANIC,ETHNICITY,REGION,STANDARD_PRIMARY_DECISION_MAKER,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3184853,
+   "title": "Fun Survey! :: Clone :: Clone :: Clone",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION68369 --"
+ },
+ {
+   "id": 3184861,
+   "title": "General Study",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,STANDARD_EDUCATION,STANDARD_HHI_US",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3184888,
+   "title": "Automotive Study_Oct 17",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,STANDARD_HHI_US",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3184892,
+   "title": "9306_April",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3184895,
+   "title": "Study_15885952",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3185124,
+   "title": "CA Study Mar-19 (6)",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,STATE",
+   "qualifications_no_supported": "-- NO_TRANSLATION32352 --"
+ },
+ {
+   "id": 3185327,
+   "title": "Fun Survey!!",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION,parental_status,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3185352,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,MS_is_tablet,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3185397,
+   "title": "Study about Beverages",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA,ETHNICITY,REGION",
+   "qualifications_no_supported": "-- NO_TRANSLATION32352 --"
+ },
+ {
+   "id": 3185453,
+   "title": "Survey About You",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": "-- NO_TRANSLATION61295 --,-- NO_TRANSLATION116600 --"
+ },
+ {
+   "id": 3185480,
+   "title": "Small business owners",
+   "qualifications_supported": "",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3185540,
+   "title": "RFG2521258-002",
+   "qualifications_supported": "AGE,GENDER,ZIP,MS_is_mobile,STANDARD_EDUCATION_v2",
+   "qualifications_no_supported": "-- NO_TRANSLATION72471 --"
+ },
+ {
+   "id": 3185595,
+   "title": "RFG2515804-069",
+   "qualifications_supported": "AGE,GENDER,DMA",
+   "qualifications_no_supported": "-- NO_TRANSLATION103189 --"
+ },
+ {
+   "id": 3185659,
+   "title": "193049 Hiring Managers",
+   "qualifications_supported": "AGE,GENDER,STANDARD_COMPANY_REVENUE,STANDARD_COMPANY_DEPARTMENT,STANDARD_EMPLOYMENT,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": "-- NO_TRANSLATION93691 --"
+ },
+ {
+   "id": 3185669,
+   "title": "v2_Cooking",
+   "qualifications_supported": "AGE,GENDER,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3185742,
+   "title": "SC75635-US",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA,ETHNICITY,STANDARD_HHI_US",
+   "qualifications_no_supported": "-- NO_TRANSLATION88448 --"
+ },
+ {
+   "id": 3185863,
+   "title": "SCPO52045 Ketan_SC1141733_Ketankumarsingh",
+   "qualifications_supported": "AGE,DMA,MS_is_mobile,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3186017,
+   "title": "Fun Survey!!",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION,parental_status,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3186048,
+   "title": "BR10783976",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA,REGION,STANDARD_HHI_US",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3186086,
+   "title": "Smart Panel",
+   "qualifications_supported": "AGE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3186108,
+   "title": "Fun Survey! ",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION756 --"
+ },
+ {
+   "id": 3186116,
+   "title": "Study_15890798",
+   "qualifications_supported": "AGE,GENDER,MS_is_mobile",
+   "qualifications_no_supported": "-- NO_TRANSLATION760 --,-- NO_TRANSLATION768 --"
+ },
+ {
+   "id": 3186117,
+   "title": "Study_15893604",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3186130,
+   "title": "Study_15893602",
+   "qualifications_supported": "AGE,GENDER,children_ages,parental_status,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3186222,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": "-- NO_TRANSLATION735 --,-- NO_TRANSLATION74875 --"
+ },
+ {
+   "id": 3186268,
+   "title": "10809601",
+   "qualifications_supported": "AGE,GENDER,DMA,ETHNICITY,STANDARD_HHI_US",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3186656,
+   "title": "Work Survey",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3187364,
+   "title": "20437_US_Vol1",
+   "qualifications_supported": "AGE,REGION",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3187405,
+   "title": "Other Survey :: Clone",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,STANDARD_EDUCATION,STANDARD_COMPANY_REVENUE,STANDARD_EMPLOYMENT,STANDARD_JOB_TITLE,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": "-- NO_TRANSLATION643 --"
+ },
+ {
+   "id": 3187409,
+   "title": "Exciting Survey",
+   "qualifications_supported": "AGE,GENDER,MS_is_mobile,STANDARD_JOB_TITLE,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3187715,
+   "title": "Study_15739525",
+   "qualifications_supported": "AGE,GENDER,DMA,ETHNICITY",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3187847,
+   "title": "DB_Genpop_US_Cleveland",
+   "qualifications_supported": "AGE,DMA,STANDARD_EDUCATION",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3187879,
+   "title": "DB_Genpop_US ",
+   "qualifications_supported": "AGE,GENDER,STATE,STANDARD_EDUCATION",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3188025,
+   "title": "10673753",
+   "qualifications_supported": "AGE,GENDER,STANDARD_COMPANY_DEPARTMENT,STANDARD_EMPLOYMENT,STANDARD_INDUSTRY_PERSONAL,STANDARD_JOB_TITLE,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3188100,
+   "title": "Study_15885952",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3188145,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3188187,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3188230,
+   "title": "Other Survey",
+   "qualifications_supported": "STANDARD_INDUSTRY_PERSONAL,STANDARD_JOB_TITLE,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3188236,
+   "title": "Study_15885554",
+   "qualifications_supported": "AGE,GENDER,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3188286,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3188296,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA,ETHNICITY,MS_is_tablet,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3188385,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,HISPANIC,DMA",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3188394,
+   "title": "Study_15791253",
+   "qualifications_supported": "AGE,GENDER,children_ages,parental_status,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3188435,
+   "title": "RI09437",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EDUCATION,STANDARD_COMPANY_REVENUE,STANDARD_COMPANY_DEPARTMENT,STANDARD_INDUSTRY_PERSONAL,STANDARD_HHI_US,STANDARD_JOB_TITLE,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": "-- NO_TRANSLATION67615 --"
+ },
+ {
+   "id": 3188468,
+   "title": "SC75636-US1",
+   "qualifications_supported": "AGE,GENDER,STATE,STANDARD_COMPANY_REVENUE,STANDARD_EMPLOYMENT,STANDARD_INDUSTRY_PERSONAL,STANDARD_JOB_TITLE,STANDARD_NO_OF_EMPLOYEES,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION116766 --"
+ },
+ {
+   "id": 3188500,
+   "title": "Study_15791250",
+   "qualifications_supported": "AGE,GENDER,children_ages,parental_status,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3188650,
+   "title": "SCPO50922 Anshu_SC1063846_Anshup",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3188716,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3188749,
+   "title": "United DMA 40790C ",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA,ETHNICITY",
+   "qualifications_no_supported": "-- NO_TRANSLATION56809 --"
+ },
+ {
+   "id": 3188768,
+   "title": "(19-018532-01-03)-513252-Ncd1 Perrier US_OGA Boost TC1",
+   "qualifications_supported": "AGE,GENDER,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3188794,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT,STANDARD_B2B_DECISION_MAKER,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3188831,
+   "title": "SCPO51940 SSH/SOM_iShop MAIN_SC1129988_Imran",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION,MS_is_mobile,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3188881,
+   "title": "(19-018532-01-03)-513252-Ncd1 Perrier US_OGA Boost TC3",
+   "qualifications_supported": "AGE,GENDER,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3188911,
+   "title": "SC75636-US_api",
+   "qualifications_supported": "AGE,GENDER,STANDARD_COMPANY_REVENUE,STANDARD_EMPLOYMENT,STANDARD_INDUSTRY_PERSONAL,MS_is_tablet,MS_is_mobile,STANDARD_JOB_TITLE,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3188943,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,ZIP",
+   "qualifications_no_supported": "-- NO_TRANSLATION115454 --"
+ },
+ {
+   "id": 3188955,
+   "title": "United Frequent 40790C",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA,ETHNICITY",
+   "qualifications_no_supported": "-- NO_TRANSLATION56809 --"
+ },
+ {
+   "id": 3188983,
+   "title": "20483_US1",
+   "qualifications_supported": "AGE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3188993,
+   "title": "SV_OQ_USA",
+   "qualifications_supported": "AGE,GENDER,ZIP,STANDARD_EDUCATION,children_ages",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3189000,
+   "title": "Study_15748014",
+   "qualifications_supported": "AGE,GENDER,children_ages,parental_status,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3189037,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3189042,
+   "title": "(19-018532-01-03)-513252-Ncd1 Perrier US_OGA Boost TC2",
+   "qualifications_supported": "AGE,GENDER,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3189046,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3189133,
+   "title": "New Study!",
+   "qualifications_supported": "AGE,GENDER,MS_is_mobile,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION93702 --"
+ },
+ {
+   "id": 3189179,
+   "title": "General Survey",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3189244,
+   "title": "Study_15885554",
+   "qualifications_supported": "AGE,GENDER,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3189245,
+   "title": "20405_US_Vol2",
+   "qualifications_supported": "AGE,GENDER,DMA",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3189257,
+   "title": "Br10729258",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,STANDARD_INDUSTRY_PERSONAL,STANDARD_JOB_TITLE,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3189290,
+   "title": "MC-50746 NGF Piyush/Ishu_SC1122593_piyush",
+   "qualifications_supported": "AGE,STANDARD_COMPANY_DEPARTMENT,STANDARD_EMPLOYMENT,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3189299,
+   "title": "Fun Survey! :: Clone",
+   "qualifications_supported": "AGE,GENDER,ZIP,STANDARD_INDUSTRY_PERSONAL,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": "-- NO_TRANSLATION93521 --"
+ },
+ {
+   "id": 3189310,
+   "title": "20034_US_V3",
+   "qualifications_supported": "AGE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3189353,
+   "title": "Fun Survey! ",
+   "qualifications_supported": "AGE,GENDER,STANDARD_COMPANY_REVENUE,STANDARD_EMPLOYMENT,STANDARD_INDUSTRY_PERSONAL,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": "-- NO_TRANSLATION92166 --"
+ },
+ {
+   "id": 3189392,
+   "title": "20478_US2",
+   "qualifications_supported": "AGE,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3189407,
+   "title": "MC-50746 SL Piyush/Ishu_SC1098263_piyush",
+   "qualifications_supported": "AGE,STANDARD_COMPANY_DEPARTMENT,STANDARD_EMPLOYMENT,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3189453,
+   "title": "Fun Survey! :: Clone",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3189456,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,STANDARD_B2B_DECISION_MAKER,STANDARD_JOB_TITLE,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3189473,
+   "title": "A New Survey Opportunity!",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,STATE,ETHNICITY,STANDARD_HHI_US",
+   "qualifications_no_supported": "-- NO_TRANSLATION60633 --"
+ },
+ {
+   "id": 3189474,
+   "title": "Study_15898497",
+   "qualifications_supported": "AGE,GENDER,ZIP,HISPANIC,ETHNICITY,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3189497,
+   "title": "Study_15890245",
+   "qualifications_supported": "AGE,GENDER,STANDARD_HOUSEHOLD_TYPE,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3189535,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,children_ages",
+   "qualifications_no_supported": "-- NO_TRANSLATION90058 --"
+ },
+ {
+   "id": 3189539,
+   "title": "Genpop 18-99",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3189584,
+   "title": "RFG2479892-077",
+   "qualifications_supported": "AGE,GENDER,DMA",
+   "qualifications_no_supported": "-- NO_TRANSLATION103189 --"
+ },
+ {
+   "id": 3189590,
+   "title": "Study_15748014",
+   "qualifications_supported": "AGE,GENDER,children_ages,parental_status,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3189602,
+   "title": "Study_15890245",
+   "qualifications_supported": "AGE,GENDER,STANDARD_HOUSEHOLD_TYPE,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3189620,
+   "title": "Fun Survey! ",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT,STANDARD_B2B_DECISION_MAKER,STANDARD_INDUSTRY_PERSONAL,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3189739,
+   "title": "Online Music Study 1",
+   "qualifications_supported": "AGE,GENDER,DMA,ETHNICITY",
+   "qualifications_no_supported": "-- NO_TRANSLATION90575 --"
+ },
+ {
+   "id": 3189742,
+   "title": "Qual3256-0315-ChristianLove | a0f2J00000DXDvgQAH English - United States - Primary :: Clone",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION,STANDARD_EDUCATION",
+   "qualifications_no_supported": "-- NO_TRANSLATION23415 --,-- NO_TRANSLATION88141 --"
+ },
+ {
+   "id": 3189758,
+   "title": "SCPO 51290 Ketan Kumar Singh_SC1136632_Ketankumarsingh",
+   "qualifications_supported": "AGE,GENDER,ZIP,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3189776,
+   "title": "Fun Survey!!",
+   "qualifications_supported": "AGE,DMA",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3189788,
+   "title": "26797-US4",
+   "qualifications_supported": "AGE,GENDER,DMA",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3189818,
+   "title": "26797-US3",
+   "qualifications_supported": "AGE,GENDER,DMA",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3189823,
+   "title": "Fun Survey!!",
+   "qualifications_supported": "AGE,DMA",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3189829,
+   "title": "Study_15791252",
+   "qualifications_supported": "AGE,GENDER,children_ages,parental_status,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3189833,
+   "title": "Genpop_US1",
+   "qualifications_supported": "AGE,GENDER,MS_is_mobile,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3189835,
+   "title": "26797-US1",
+   "qualifications_supported": "AGE,GENDER,DMA",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3189856,
+   "title": "Exciting new survey! :: Clone",
+   "qualifications_supported": "AGE,GENDER,ZIP,HISPANIC,ETHNICITY,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3189863,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION25640 --"
+ },
+ {
+   "id": 3189877,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION61190 --"
+ },
+ {
+   "id": 3189894,
+   "title": "qual2726-1220Counties-IB - a0f2J00000DGxVeQAL English - United States - Primary",
+   "qualifications_supported": "AGE,GENDER,ZIP,HISPANIC,ETHNICITY,STANDARD_HHI_US",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3189910,
+   "title": "Other Survey :: Clone :: Clone :: Clone :: Clone :: Clone :: Clone :: Clone",
+   "qualifications_supported": "AGE,GENDER,children_ages,STANDARD_EMPLOYMENT,parental_status,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3190007,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,STANDARD_HHI_US,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION649 --"
+ },
+ {
+   "id": 3190043,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": "-- NO_TRANSLATION760 --,-- NO_TRANSLATION763 --,-- NO_TRANSLATION765 --"
+ },
+ {
+   "id": 3190080,
+   "title": "Other Survey :: Clone :: Clone :: Clone :: Clone :: Clone :: Clone",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3190081,
+   "title": "Other Survey :: Clone :: Clone :: Clone :: Clone :: Clone :: Clone",
+   "qualifications_supported": "AGE,GENDER,STANDARD_INDUSTRY_PERSONAL",
+   "qualifications_no_supported": "-- NO_TRANSLATION103239 --"
+ },
+ {
+   "id": 3190156,
+   "title": "Study_15901292",
+   "qualifications_supported": "AGE,GENDER,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3190161,
+   "title": "Other Survey :: Clone :: Clone :: Clone :: Clone :: Clone",
+   "qualifications_supported": "AGE,GENDER,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3190195,
+   "title": "General Survey",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA,ETHNICITY",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3190210,
+   "title": "Fun Survey!!",
+   "qualifications_supported": "AGE,DMA",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3190211,
+   "title": "Fun Survey!!",
+   "qualifications_supported": "AGE,DMA",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3190223,
+   "title": "Interesting Survey!",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION,STANDARD_INDUSTRY_PERSONAL,MS_is_tablet,MS_is_mobile,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3190227,
+   "title": "Fun Survey!!",
+   "qualifications_supported": "AGE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3190236,
+   "title": "Qual3883-0227BMOHValueProp_a0f2J00000Cn0ULQAZ English - United States - Primary",
+   "qualifications_supported": "AGE,GENDER,ZIP,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3190240,
+   "title": "Other Survey :: Clone :: Clone :: Clone :: Clone",
+   "qualifications_supported": "AGE,GENDER,STANDARD_HOME_OWNER",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3190250,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,ETHNICITY,children_ages,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3190252,
+   "title": "Other Survey :: Clone :: Clone :: Clone :: Clone",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EDUCATION,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3190255,
+   "title": "Other Survey ::  :: Clone :: Clone :: Clone :: Clone :: Clone",
+   "qualifications_supported": "AGE,GENDER,HISPANIC",
+   "qualifications_no_supported": "-- NO_TRANSLATION754 --"
+ },
+ {
+   "id": 3190264,
+   "title": "Other Survey :: Clone :: Clone :: Clone :: Clone",
+   "qualifications_supported": "AGE,GENDER,ZIP,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3190269,
+   "title": "Fun Survey!!",
+   "qualifications_supported": "AGE,DMA",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3190301,
+   "title": "Other Survey :: Clone :: Clone :: Clone :: Clone :: Clone :: Clone :: Clone :: Clone",
+   "qualifications_supported": "AGE,GENDER,children_ages,STANDARD_EMPLOYMENT,parental_status,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3190345,
+   "title": "Study_15900894",
+   "qualifications_supported": "AGE,GENDER,MS_is_mobile",
+   "qualifications_no_supported": "-- NO_TRANSLATION737 --"
+ },
+ {
+   "id": 3190349,
+   "title": "Study_15900894",
+   "qualifications_supported": "AGE,GENDER,MS_is_mobile",
+   "qualifications_no_supported": "-- NO_TRANSLATION737 --"
+ },
+ {
+   "id": 3190351,
+   "title": "Study_15900893",
+   "qualifications_supported": "AGE,GENDER,MS_is_mobile",
+   "qualifications_no_supported": "-- NO_TRANSLATION737 --"
+ },
+ {
+   "id": 3190355,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,STATE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3190366,
+   "title": "Qual2966-0313Smilepay2.0 | a0f2J00000Cmu0XQAR English - United States - Primary :: Clone :: Clone :: Clone :: Clone",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,STANDARD_RELATIONSHIP,STANDARD_EDUCATION,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION3708 --,-- NO_TRANSLATION104260 --"
+ },
+ {
+   "id": 3190368,
+   "title": "Study_15900894",
+   "qualifications_supported": "AGE,GENDER,MS_is_mobile",
+   "qualifications_no_supported": "-- NO_TRANSLATION737 --"
+ },
+ {
+   "id": 3190383,
+   "title": "Other Survey :: Clone :: Clone :: Clone :: Clone",
+   "qualifications_supported": "AGE,GENDER,ZIP",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3190393,
+   "title": "NEW Study for Dallas",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA,ETHNICITY",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3190405,
+   "title": "Qual2966-0313Smilepay2.0 | a0f2J00000Cmu0XQAR English - United States - Primary :: Clone :: Clone :: Clone :: Clone :: Clone :: ",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,STANDARD_RELATIONSHIP,STANDARD_EDUCATION,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION3708 --,-- NO_TRANSLATION104260 --"
+ },
+ {
+   "id": 3190416,
+   "title": "Qual2966-0313Smilepay2.0 | a0f2J00000Cmu0XQAR English - United States - Primary :: Clone :: Clone :: Clone :: Clone :: Clone :: ",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,STANDARD_RELATIONSHIP,STANDARD_EDUCATION,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION3708 --,-- NO_TRANSLATION104260 --"
+ },
+ {
+   "id": 3190442,
+   "title": "Other Survey :: Clone :: Clone :: Clone :: Clone",
+   "qualifications_supported": "AGE,GENDER,ZIP",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3190448,
+   "title": "Study_14664009",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": "-- NO_TRANSLATION760 --,-- NO_TRANSLATION768 --"
+ },
+ {
+   "id": 3190489,
+   "title": "SCPO 51509 VSL_SC1102575_Vishal",
+   "qualifications_supported": "AGE,STANDARD_EMPLOYMENT,STANDARD_INDUSTRY_PERSONAL",
+   "qualifications_no_supported": "-- NO_TRANSLATION115738 --"
+ },
+ {
+   "id": 3190490,
+   "title": "SCPO 51509 VSL_SC1102575_Vishal",
+   "qualifications_supported": "AGE,STANDARD_EMPLOYMENT,STANDARD_INDUSTRY_PERSONAL",
+   "qualifications_no_supported": "-- NO_TRANSLATION115738 --"
+ },
+ {
+   "id": 3190528,
+   "title": "Developers/IT Pros",
+   "qualifications_supported": "AGE,GENDER,STANDARD_COMPANY_REVENUE,STANDARD_COMPANY_DEPARTMENT,STANDARD_EMPLOYMENT,STANDARD_INDUSTRY_PERSONAL,STANDARD_JOB_TITLE,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3190592,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3190642,
+   "title": "Bank study English - United States - SBO",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT",
+   "qualifications_no_supported": "-- NO_TRANSLATION73204 --"
+ },
+ {
+   "id": 3190683,
+   "title": "General Survey",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,STANDARD_EDUCATION",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3190699,
+   "title": "Atlanta Music Study",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3190767,
+   "title": "Other Survey :: Clone :: Clone",
+   "qualifications_supported": "AGE,GENDER,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3190799,
+   "title": "Study_15900008",
+   "qualifications_supported": "AGE,DMA",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3190807,
+   "title": "INV14394 US ITDM BDM",
+   "qualifications_supported": "AGE,GENDER,STANDARD_COMPANY_DEPARTMENT,STANDARD_EMPLOYMENT,STANDARD_INDUSTRY_PERSONAL,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": "-- NO_TRANSLATION46608 --"
+ },
+ {
+   "id": 3190839,
+   "title": "Other Survey :: Clone",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION",
+   "qualifications_no_supported": "-- NO_TRANSLATION742 --"
+ },
+ {
+   "id": 3190920,
+   "title": "Lifestyle survey",
+   "qualifications_supported": "AGE,GENDER,REGION,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION93705 --"
+ },
+ {
+   "id": 3190985,
+   "title": "4340642",
+   "qualifications_supported": "AGE,GENDER,parental_status,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3190996,
+   "title": "83305-Migraine_USA_April",
+   "qualifications_supported": "AGE,GENDER,ZIP,STATE",
+   "qualifications_no_supported": "-- NO_TRANSLATION90058 --"
+ },
+ {
+   "id": 3191019,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,ETHNICITY",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3191022,
+   "title": "4340709",
+   "qualifications_supported": "AGE,GENDER,ZIP,ETHNICITY,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3191035,
+   "title": "INV36974- 734337 Asthma_______________ GD",
+   "qualifications_supported": "AGE,GENDER,ZIP",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3191042,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,ETHNICITY,STANDARD_EDUCATION,STANDARD_EDUCATION_v2",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3191057,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,ETHNICITY",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3191088,
+   "title": "20415_US",
+   "qualifications_supported": "AGE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3191089,
+   "title": "SCPO 52178 VSL_SC1144188_Vishal",
+   "qualifications_supported": "AGE,ZIP",
+   "qualifications_no_supported": "-- NO_TRANSLATION634 --"
+ },
+ {
+   "id": 3191281,
+   "title": "Qual3883-0227BMOHValueProp_a0f2J00000Cn0ULQAZ English - United States - Primary",
+   "qualifications_supported": "AGE,GENDER,ZIP,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3191283,
+   "title": "Other Survey :: Clone",
+   "qualifications_supported": "AGE,GENDER,STANDARD_RELATIONSHIP",
+   "qualifications_no_supported": "-- NO_TRANSLATION32979 --,-- NO_TRANSLATION52159 --"
+ },
+ {
+   "id": 3191293,
+   "title": "RFG2515804-014",
+   "qualifications_supported": "AGE,GENDER,DMA",
+   "qualifications_no_supported": "-- NO_TRANSLATION103189 --"
+ },
+ {
+   "id": 3191325,
+   "title": "Military-Affiliated Prospective Students_US1",
+   "qualifications_supported": "AGE,STANDARD_EDUCATION,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3191328,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,ETHNICITY,children_ages,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3191346,
+   "title": "83305-IBS April-US",
+   "qualifications_supported": "AGE,GENDER,ZIP,STATE,ETHNICITY,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION90059 --"
+ },
+ {
+   "id": 3191361,
+   "title": "26417-US_1",
+   "qualifications_supported": "AGE,GENDER,STANDARD_COMPANY_DEPARTMENT,STANDARD_INDUSTRY_PERSONAL,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3191396,
+   "title": "DMV Metro Area1",
+   "qualifications_supported": "AGE,STATE,STANDARD_EDUCATION",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3191423,
+   "title": "General Survey",
+   "qualifications_supported": "AGE",
+   "qualifications_no_supported": "-- NO_TRANSLATION84142 --"
+ },
+ {
+   "id": 3191424,
+   "title": "General Survey",
+   "qualifications_supported": "AGE",
+   "qualifications_no_supported": "-- NO_TRANSLATION48414 --"
+ },
+ {
+   "id": 3191452,
+   "title": "ITDMs_link1_US",
+   "qualifications_supported": "AGE,STANDARD_EMPLOYMENT,STANDARD_B2B_DECISION_MAKER,MS_is_mobile,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3191458,
+   "title": "Other Survey",
+   "qualifications_supported": "",
+   "qualifications_no_supported": "-- NO_TRANSLATION38672 --"
+ },
+ {
+   "id": 3191493,
+   "title": "Study_15893604",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3191505,
+   "title": "Nashville 2019",
+   "qualifications_supported": "AGE,GENDER,ZIP,STANDARD_INDUSTRY_PERSONAL",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3191598,
+   "title": "ITDMs and Developer English - United States - Primary",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": "-- NO_TRANSLATION107241 --"
+ },
+ {
+   "id": 3191617,
+   "title": "Qual3106-0130OneTeam 2 - United States - Primary",
+   "qualifications_supported": "AGE,ZIP,STANDARD_EMPLOYMENT,STANDARD_INDUSTRY_PERSONAL",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3191621,
+   "title": "Phone owners English - United States - Primary",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": "-- NO_TRANSLATION91802 --"
+ },
+ {
+   "id": 3191711,
+   "title": "4220249",
+   "qualifications_supported": "AGE,GENDER,REGION",
+   "qualifications_no_supported": "-- NO_TRANSLATION29228 --"
+ },
+ {
+   "id": 3191751,
+   "title": "Parents Study English - United States - OQ",
+   "qualifications_supported": "AGE,GENDER,ZIP,children_ages",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3191820,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,STANDARD_RELATIONSHIP,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3191824,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,REGION,MS_is_tablet,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3191848,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,REGION,MS_is_tablet,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3191867,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,REGION,MS_is_tablet,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3191872,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,REGION,MS_is_tablet,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3191882,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,REGION,MS_is_tablet,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3191929,
+   "title": "Other Survey :: Clone",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION,STANDARD_EDUCATION,children_ages,STANDARD_HHI_US",
+   "qualifications_no_supported": "-- NO_TRANSLATION32352 --"
+ },
+ {
+   "id": 3191932,
+   "title": "Fun Survey! ",
+   "qualifications_supported": "AGE,GENDER,STANDARD_COMPANY_REVENUE,STANDARD_COMPANY_DEPARTMENT,STANDARD_EMPLOYMENT,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3191943,
+   "title": "General Survey",
+   "qualifications_supported": "AGE,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION83981 --"
+ },
+ {
+   "id": 3191965,
+   "title": "Fun Survey! ",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": "-- NO_TRANSLATION113990 --"
+ },
+ {
+   "id": 3191977,
+   "title": "SCPO51832 NIK US_SC1144807_Nikhil",
+   "qualifications_supported": "AGE,STATE,STANDARD_EMPLOYMENT,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3191991,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3192108,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,STATE,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION639 --,-- NO_TRANSLATION105013 --"
+ },
+ {
+   "id": 3192110,
+   "title": "18-24,35-54 yo m/f",
+   "qualifications_supported": "AGE,GENDER,DMA,ETHNICITY",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3192145,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,STATE,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION639 --,-- NO_TRANSLATION105013 --"
+ },
+ {
+   "id": 3192149,
+   "title": "General Survey",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,STANDARD_RELATIONSHIP,STANDARD_HHI_US",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3192159,
+   "title": "18 - 54 yo male/female",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA,ETHNICITY",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3192165,
+   "title": "Qual4096-0403onlinebank English - United States - Primary",
+   "qualifications_supported": "AGE",
+   "qualifications_no_supported": "-- NO_TRANSLATION105019 --,-- NO_TRANSLATION116824 --"
+ },
+ {
+   "id": 3192170,
+   "title": "RI09158",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION,STANDARD_EDUCATION,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3192174,
+   "title": "18-24,55+ yo male",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3192183,
+   "title": "MC-51483 Piyush GPD 03/04_SC1144889_piyush",
+   "qualifications_supported": "AGE,GENDER,ZIP,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3192186,
+   "title": "Fun Survey! ",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,REGION,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION32352 --,-- NO_TRANSLATION78422 --,-- NO_TRANSLATION93687 --"
+ },
+ {
+   "id": 3192187,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,STATE,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION639 --,-- NO_TRANSLATION105013 --"
+ },
+ {
+   "id": 3192191,
+   "title": "18-54 m/f",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3192196,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,STATE,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION639 --,-- NO_TRANSLATION105013 --"
+ },
+ {
+   "id": 3192271,
+   "title": "NCD1 LongHorn 20.1 Grill Master Fav 2TC 1CC + Boost  English - United States - Primary",
+   "qualifications_supported": "AGE,GENDER,MS_is_mobile,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3192359,
+   "title": "General Study",
+   "qualifications_supported": "AGE,GENDER,HISPANIC",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3192439,
+   "title": "Other Survey :: Clone",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION116721 --"
+ },
+ {
+   "id": 3192450,
+   "title": "General Study",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3192468,
+   "title": "4287649",
+   "qualifications_supported": "AGE,GENDER,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION66466 --"
+ },
+ {
+   "id": 3192471,
+   "title": "Study_15906925",
+   "qualifications_supported": "AGE,GENDER,MS_is_mobile",
+   "qualifications_no_supported": "-- NO_TRANSLATION22405 --"
+ },
+ {
+   "id": 3192474,
+   "title": "Other Survey :: Clone",
+   "qualifications_supported": "AGE,GENDER,ETHNICITY,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3192498,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,STANDARD_COMPANY_DEPARTMENT,STANDARD_JOB_TITLE,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3192550,
+   "title": "86890",
+   "qualifications_supported": "AGE,GENDER,ZIP,STATE,ETHNICITY,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION92871 --"
+ },
+ {
+   "id": 3192600,
+   "title": "ITDMs/BDMs",
+   "qualifications_supported": "STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": "-- NO_TRANSLATION65651 --"
+ },
+ {
+   "id": 3192616,
+   "title": "Fun Survey!!",
+   "qualifications_supported": "AGE,DMA",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3192624,
+   "title": "SCPO52124 Shruti_SC1141109_Shruti",
+   "qualifications_supported": "AGE,GENDER,REGION",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3192634,
+   "title": "GWS22749_New",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3192646,
+   "title": "NXT202033_SP_B2B_USA_Fresh",
+   "qualifications_supported": "AGE,STANDARD_EMPLOYMENT,STANDARD_B2B_DECISION_MAKER,STANDARD_INDUSTRY_PERSONAL,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3192659,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3192679,
+   "title": "26765_1",
+   "qualifications_supported": "AGE,GENDER,STANDARD_COMPANY_DEPARTMENT,STANDARD_INDUSTRY_PERSONAL,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3192701,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,STATE,ETHNICITY,REGION,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3192709,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION36295 --"
+ },
+ {
+   "id": 3192716,
+   "title": "General Survey",
+   "qualifications_supported": "AGE,GENDER,STATE,STANDARD_HOUSEHOLD_TYPE,STANDARD_HHI_US",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3192757,
+   "title": "B2B_USA_Fresh",
+   "qualifications_supported": "AGE,STATE,STANDARD_EMPLOYMENT,STANDARD_B2B_DECISION_MAKER,STANDARD_INDUSTRY_PERSONAL,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3192842,
+   "title": "20211_US_V2",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3193002,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,ZIP,HISPANIC,ETHNICITY,REGION,STANDARD_HHI_US",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3193009,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA",
+   "qualifications_no_supported": "-- NO_TRANSLATION747 --,-- NO_TRANSLATION92961 --"
+ },
+ {
+   "id": 3193184,
+   "title": "Study_15906852",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY",
+   "qualifications_no_supported": "-- NO_TRANSLATION7806 --,-- NO_TRANSLATION8507 --,-- NO_TRANSLATION45147 --,-- NO_TRANSLATION83816 --"
+ },
+ {
+   "id": 3193188,
+   "title": "APN_IFGS2019V2",
+   "qualifications_supported": "AGE,GENDER,REGION,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION639 --"
+ },
+ {
+   "id": 3193226,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,MS_is_mobile,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION98561 --"
+ },
+ {
+   "id": 3193263,
+   "title": "Genpop",
+   "qualifications_supported": "AGE,DMA,STANDARD_EDUCATION,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3193274,
+   "title": "Study_15906852",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,MS_is_mobile",
+   "qualifications_no_supported": "-- NO_TRANSLATION7806 --,-- NO_TRANSLATION8507 --,-- NO_TRANSLATION45147 --,-- NO_TRANSLATION83816 --"
+ },
+ {
+   "id": 3193279,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION61332 --"
+ },
+ {
+   "id": 3193346,
+   "title": "4343300",
+   "qualifications_supported": "AGE,ZIP,STANDARD_EMPLOYMENT",
+   "qualifications_no_supported": "-- NO_TRANSLATION116834 --"
+ },
+ {
+   "id": 3193443,
+   "title": "Fun with Spreadsheets!",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT,MS_is_mobile",
+   "qualifications_no_supported": "-- NO_TRANSLATION29226 --"
+ },
+ {
+   "id": 3193445,
+   "title": "Other Survey :: Clone :: Clone :: Clone :: Clone",
+   "qualifications_supported": "AGE,GENDER,STANDARD_INDUSTRY_PERSONAL",
+   "qualifications_no_supported": "-- NO_TRANSLATION116557 --"
+ },
+ {
+   "id": 3193532,
+   "title": "G9 Comp English - United States - Primary :: Clone",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3193542,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,ZIP,HISPANIC,ETHNICITY,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION59804 --"
+ },
+ {
+   "id": 3193548,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,ZIP,HISPANIC,ETHNICITY,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION59804 --"
+ },
+ {
+   "id": 3193590,
+   "title": "4343401",
+   "qualifications_supported": "AGE,STANDARD_EMPLOYMENT,STANDARD_INDUSTRY_PERSONAL,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3193598,
+   "title": "PS_ITDMS_US",
+   "qualifications_supported": "AGE,STANDARD_EMPLOYMENT,STANDARD_B2B_DECISION_MAKER,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3193666,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION17986 --"
+ },
+ {
+   "id": 3193671,
+   "title": "Fun Survey!  :",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3193685,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION,STANDARD_COMPANY_DEPARTMENT,STANDARD_EMPLOYMENT,STANDARD_B2B_DECISION_MAKER,STANDARD_INDUSTRY_PERSONAL,STANDARD_JOB_TITLE,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3193712,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,STATE,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION639 --,-- NO_TRANSLATION105013 --"
+ },
+ {
+   "id": 3193747,
+   "title": "RFG2515804-012",
+   "qualifications_supported": "AGE,GENDER,DMA",
+   "qualifications_no_supported": "-- NO_TRANSLATION103189 --"
+ },
+ {
+   "id": 3193834,
+   "title": "Study_15910584",
+   "qualifications_supported": "AGE,GENDER,STANDARD_COMPANY_DEPARTMENT,STANDARD_EMPLOYMENT,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3193839,
+   "title": "Fun Survey For You",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3193913,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY",
+   "qualifications_no_supported": "-- NO_TRANSLATION14013 --,-- NO_TRANSLATION61283 --"
+ },
+ {
+   "id": 3193930,
+   "title": "Decision Makers",
+   "qualifications_supported": "AGE,GENDER,DMA,STANDARD_EMPLOYMENT,STANDARD_JOB_TITLE,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3193947,
+   "title": "SC1142624_US_SC1142624_priya",
+   "qualifications_supported": "AGE,GENDER,DMA,STANDARD_COMPANY_REVENUE,STANDARD_EMPLOYMENT,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3193992,
+   "title": "Study_14491168",
+   "qualifications_supported": "AGE,GENDER,ZIP",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3194909,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,STANDARD_JOB_TITLE,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION643 --"
+ },
+ {
+   "id": 3194967,
+   "title": "Other Survey :: Clone",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EDUCATION,STANDARD_COMPANY_REVENUE,STANDARD_EMPLOYMENT,STANDARD_INDUSTRY_PERSONAL,STANDARD_JOB_TITLE,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": "-- NO_TRANSLATION116774 --"
+ },
+ {
+   "id": 3194984,
+   "title": "20516_US_WKLB_w7",
+   "qualifications_supported": "AGE,GENDER,STATE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3194988,
+   "title": "Work Survey",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3195217,
+   "title": "4323406",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3195245,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,DMA",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3195359,
+   "title": "SP_B2B_USA_SBO",
+   "qualifications_supported": "AGE,DMA,STANDARD_COMPANY_REVENUE,STANDARD_EMPLOYMENT,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3195520,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,ETHNICITY,MS_is_tablet,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3195559,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,MS_is_tablet,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3195680,
+   "title": "SCPO 52012 Shivam Shukla_SC1146709_shivam123",
+   "qualifications_supported": "AGE,GENDER,ZIP,STANDARD_HOME_OWNER",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3195844,
+   "title": "Survey About You",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": "-- NO_TRANSLATION61295 --,-- NO_TRANSLATION116600 --"
+ },
+ {
+   "id": 3195991,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,ETHNICITY,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3195995,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3195999,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,ETHNICITY,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3196001,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,ETHNICITY,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3196002,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,ETHNICITY,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3196013,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3196033,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3196042,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3196043,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,ETHNICITY,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3196044,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,ETHNICITY,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3196045,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,ETHNICITY,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3196059,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,ETHNICITY,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3196060,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,ETHNICITY,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3196063,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,ETHNICITY,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3196064,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,ETHNICITY,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3196074,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,ETHNICITY,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3196075,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,ETHNICITY,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3196081,
+   "title": "Fun Survey!  ",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": "-- NO_TRANSLATION3920 --"
+ },
+ {
+   "id": 3196086,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,ETHNICITY,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3196087,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,ETHNICITY,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3196088,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3196089,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,ETHNICITY,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3196094,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3196097,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,ETHNICITY,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3196098,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,ETHNICITY,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3196102,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3196110,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,ETHNICITY,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3196116,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,ETHNICITY,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3196125,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3196126,
+   "title": "Fun Survey",
+   "qualifications_supported": "AGE,GENDER,REGION,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION737 --,-- NO_TRANSLATION74875 --,-- NO_TRANSLATION78422 --,-- NO_TRANSLATION90061 --"
+ },
+ {
+   "id": 3196128,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3196141,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,ETHNICITY,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3196149,
+   "title": "Other Survey",
+   "qualifications_supported": "STANDARD_INDUSTRY_PERSONAL,STANDARD_JOB_TITLE,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3196170,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3196176,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3196177,
+   "title": "User Research Survey :: Clone",
+   "qualifications_supported": "AGE,STANDARD_EDUCATION,STANDARD_EMPLOYMENT,STANDARD_INDUSTRY_PERSONAL,MS_is_mobile,STANDARD_JOB_TITLE,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3196226,
+   "title": "10078097",
+   "qualifications_supported": "AGE,GENDER,ETHNICITY,REGION",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3196270,
+   "title": "Study_15885554",
+   "qualifications_supported": "AGE,GENDER,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3196319,
+   "title": "SCPO50922 Anshu_SC1063846_Anshup",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3196381,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3196382,
+   "title": "Study_15901292",
+   "qualifications_supported": "AGE,GENDER,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3196401,
+   "title": "(19-018532-01-03)-513252-Ncd1 Perrier US_OGA Boost TC5 :: 5",
+   "qualifications_supported": "AGE,GENDER,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3196403,
+   "title": "(19-018532-01-03)-513252-Ncd1 Perrier US_OGA Boost TC2 :: 1",
+   "qualifications_supported": "AGE,GENDER,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3196409,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3196425,
+   "title": "(19-018532-01-03)-513252-Ncd1 Perrier US_OGA Boost TC3 :: 3",
+   "qualifications_supported": "AGE,GENDER,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3196433,
+   "title": "(19-018532-01-03)-513252-Ncd1 Perrier US_OGA Boost TC4 :: 4",
+   "qualifications_supported": "AGE,GENDER,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3196435,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3196447,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,REGION,STANDARD_INDUSTRY_PERSONAL",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3196471,
+   "title": "Construction industry",
+   "qualifications_supported": "",
+   "qualifications_no_supported": "-- NO_TRANSLATION93520 --"
+ },
+ {
+   "id": 3196511,
+   "title": "Survey",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION",
+   "qualifications_no_supported": "-- NO_TRANSLATION90825 --"
+ },
+ {
+   "id": 3196579,
+   "title": "General Survey",
+   "qualifications_supported": "AGE,GENDER,STANDARD_HHI_US",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3196589,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3196735,
+   "title": "FUN SURVEY",
+   "qualifications_supported": "AGE,GENDER,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3196791,
+   "title": "4343434",
+   "qualifications_supported": "AGE,MS_is_mobile,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3196949,
+   "title": "20481_US_1",
+   "qualifications_supported": "AGE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3196992,
+   "title": "4347386",
+   "qualifications_supported": "AGE,GENDER,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION66466 --"
+ },
+ {
+   "id": 3197112,
+   "title": "RFG2479892-050",
+   "qualifications_supported": "AGE,GENDER,DMA",
+   "qualifications_no_supported": "-- NO_TRANSLATION103189 --"
+ },
+ {
+   "id": 3197134,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,ZIP",
+   "qualifications_no_supported": "-- NO_TRANSLATION115454 --"
+ },
+ {
+   "id": 3197153,
+   "title": "SCPO 52172 Rishabh Dua_SC1144727_Rishabh",
+   "qualifications_supported": "AGE,GENDER,ZIP,DMA,ETHNICITY",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3197249,
+   "title": "Study_15748014",
+   "qualifications_supported": "AGE,GENDER,children_ages,parental_status,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3197268,
+   "title": "4347797",
+   "qualifications_supported": "AGE,STANDARD_COMPANY_REVENUE,STANDARD_EMPLOYMENT,STANDARD_INDUSTRY_PERSONAL,STANDARD_JOB_TITLE,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3197320,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,REGION,STANDARD_DIAGNOSED_AILMENTS_I,MS_is_tablet,MS_is_mobile",
+   "qualifications_no_supported": "-- NO_TRANSLATION762 --"
+ },
+ {
+   "id": 3197363,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,DMA,ETHNICITY",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3197376,
+   "title": "Knoxville Men 2019  III",
+   "qualifications_supported": "AGE,GENDER,ZIP,ETHNICITY,STANDARD_INDUSTRY_PERSONAL",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3197591,
+   "title": "Communications & IT",
+   "qualifications_supported": "AGE,ZIP,STANDARD_EMPLOYMENT,STANDARD_B2B_DECISION_MAKER,STANDARD_INDUSTRY_PERSONAL,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3197632,
+   "title": "Qual3883-1031HispanicSpanishPrimar  - a0f2J00000DGVIqQAP\t English - United States - Primary",
+   "qualifications_supported": "AGE,HISPANIC",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3197656,
+   "title": "General Survey",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA,ETHNICITY",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3197660,
+   "title": "General Survey",
+   "qualifications_supported": "AGE",
+   "qualifications_no_supported": "-- NO_TRANSLATION48414 --"
+ },
+ {
+   "id": 3197766,
+   "title": "Other Survey :: Clone",
+   "qualifications_supported": "AGE,GENDER,parental_status",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3197792,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3197800,
+   "title": "Fun Survey! :: Clone :: Clone :: Clone",
+   "qualifications_supported": "AGE,GENDER,ZIP,HISPANIC,ETHNICITY,REGION,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3197822,
+   "title": "FUN SURVEY",
+   "qualifications_supported": "AGE,GENDER,REGION,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION113710 --,-- NO_TRANSLATION113711 --,-- NO_TRANSLATION113714 --,-- NO_TRANSLATION113715 --,-- NO_TRANSLATION113716 --,-- NO_TRANSLATION113718 --,-- NO_TRANSLATION113719 --"
+ },
+ {
+   "id": 3197854,
+   "title": "FUN SURVEY",
+   "qualifications_supported": "AGE,GENDER,REGION,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION113710 --,-- NO_TRANSLATION113711 --,-- NO_TRANSLATION113714 --,-- NO_TRANSLATION113715 --,-- NO_TRANSLATION113716 --,-- NO_TRANSLATION113718 --,-- NO_TRANSLATION113719 --"
+ },
+ {
+   "id": 3197872,
+   "title": "Other Survey :: Clone :: Clone :: Clone :: Clone :: Clone :: Clone :: Clone :: Clone :: Clone",
+   "qualifications_supported": "AGE,GENDER,children_ages,STANDARD_EMPLOYMENT,parental_status,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3197877,
+   "title": "26819",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3197913,
+   "title": "Contractors or Builders",
+   "qualifications_supported": "AGE",
+   "qualifications_no_supported": "-- NO_TRANSLATION76186 --"
+ },
+ {
+   "id": 3197931,
+   "title": "General Study",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,STANDARD_EDUCATION,STANDARD_HHI_US",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3198031,
+   "title": "4348729",
+   "qualifications_supported": "AGE,MS_is_mobile",
+   "qualifications_no_supported": "-- NO_TRANSLATION57726 --"
+ },
+ {
+   "id": 3198037,
+   "title": "Other Survey 1842194 :: Clone",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": "-- NO_TRANSLATION87797 --,-- NO_TRANSLATION115552 --,-- NO_TRANSLATION115561 --"
+ },
+ {
+   "id": 3198125,
+   "title": "Study_15791253",
+   "qualifications_supported": "AGE,GENDER,children_ages,parental_status,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3198135,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EDUCATION,STANDARD_COMPANY_REVENUE,STANDARD_EMPLOYMENT,STANDARD_JOB_TITLE,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3198279,
+   "title": "Phoenix Music Study",
+   "qualifications_supported": "AGE,GENDER,DMA,ETHNICITY",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3198404,
+   "title": "Study_15901292",
+   "qualifications_supported": "AGE,GENDER,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3198525,
+   "title": "Financial Survey",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3198637,
+   "title": "Study_15748014",
+   "qualifications_supported": "AGE,GENDER,children_ages,parental_status,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3198702,
+   "title": "Other Survey :: Clone :: Clone :: Clone :: Clone :: Clone :: Clone :: Clone :: Clone :: Clone :: Clone",
+   "qualifications_supported": "AGE,GENDER,children_ages,STANDARD_EMPLOYMENT,parental_status,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3198714,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,ETHNICITY,STANDARD_RELATIONSHIP,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3198723,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,REGION,STANDARD_JOB_TITLE,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION61190 --,-- NO_TRANSLATION90061 --"
+ },
+ {
+   "id": 3198737,
+   "title": "Study_15922600",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT,MS_is_mobile,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3198758,
+   "title": "SV_GP_USA",
+   "qualifications_supported": "AGE,DMA,STANDARD_EDUCATION",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3198765,
+   "title": "Small Business Owners English - United States - US",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": "-- NO_TRANSLATION17417 --"
+ },
+ {
+   "id": 3198777,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,REGION,STANDARD_COMPANY_REVENUE,STANDARD_EMPLOYMENT,STANDARD_INDUSTRY_PERSONAL,STANDARD_JOB_TITLE,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": "-- NO_TRANSLATION33497 --"
+ },
+ {
+   "id": 3198786,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3198790,
+   "title": "Fun Survey! :: Clone :: Clone :: Clone :: Clone :: Clone",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION,STANDARD_FLIGHT_PURPOSE,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION68369 --"
+ },
+ {
+   "id": 3198819,
+   "title": "General Study",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT,STANDARD_INDUSTRY_PERSONAL",
+   "qualifications_no_supported": "-- NO_TRANSLATION103677 --"
+ },
+ {
+   "id": 3198837,
+   "title": "100+ EE ITDMS - IN_SC1145104_Imran",
+   "qualifications_supported": "AGE,STANDARD_COMPANY_DEPARTMENT,STANDARD_EMPLOYMENT,MS_is_mobile,STANDARD_JOB_TITLE,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3198851,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION",
+   "qualifications_no_supported": "-- NO_TRANSLATION32352 --"
+ },
+ {
+   "id": 3198865,
+   "title": "4349523",
+   "qualifications_supported": "AGE,DMA,STANDARD_COMPANY_REVENUE,STANDARD_EMPLOYMENT",
+   "qualifications_no_supported": "-- NO_TRANSLATION88196 --"
+ },
+ {
+   "id": 3198892,
+   "title": "SCPO52014 Shruti_SC1140170_Ketankumarsingh",
+   "qualifications_supported": "AGE,DMA",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3198909,
+   "title": "14416 Real estate agents Custom",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": "-- NO_TRANSLATION61371 --"
+ },
+ {
+   "id": 3198916,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,STANDARD_HHI_US",
+   "qualifications_no_supported": "-- NO_TRANSLATION3919 --"
+ },
+ {
+   "id": 3198980,
+   "title": "Other Survey :: Clone",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION",
+   "qualifications_no_supported": "-- NO_TRANSLATION742 --"
+ },
+ {
+   "id": 3199029,
+   "title": "Online Music Study - 3  ",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA,ETHNICITY",
+   "qualifications_no_supported": "-- NO_TRANSLATION90058 --"
+ },
+ {
+   "id": 3199037,
+   "title": "Online Music Study - 2 ",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA,ETHNICITY",
+   "qualifications_no_supported": "-- NO_TRANSLATION93685 --"
+ },
+ {
+   "id": 3199038,
+   "title": "Online Music Study - 2  ",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA,ETHNICITY",
+   "qualifications_no_supported": "-- NO_TRANSLATION90058 --"
+ },
+ {
+   "id": 3199054,
+   "title": "Online Music Study - 1   ",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA,ETHNICITY",
+   "qualifications_no_supported": "-- NO_TRANSLATION93685 --"
+ },
+ {
+   "id": 3199075,
+   "title": "SCPPO Shivam_SC1147558_shivam123",
+   "qualifications_supported": "AGE,GENDER,ZIP,ETHNICITY",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3199123,
+   "title": "Study_15791253",
+   "qualifications_supported": "AGE,GENDER,children_ages,parental_status,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3199126,
+   "title": "Study_15906925",
+   "qualifications_supported": "AGE,GENDER,MS_is_mobile",
+   "qualifications_no_supported": "-- NO_TRANSLATION22405 --"
+ },
+ {
+   "id": 3199132,
+   "title": "8833_US",
+   "qualifications_supported": "AGE,STANDARD_EDUCATION,STANDARD_COMPANY_DEPARTMENT,STANDARD_EMPLOYMENT,STANDARD_INDUSTRY_PERSONAL,STANDARD_JOB_TITLE,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3199141,
+   "title": "Other Survey :: Clone :: Clone :: Clone :: Clone",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": "-- NO_TRANSLATION93522 --"
+ },
+ {
+   "id": 3199171,
+   "title": "Study_15833595",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,MS_is_mobile",
+   "qualifications_no_supported": "-- NO_TRANSLATION726 --,-- NO_TRANSLATION727 --,-- NO_TRANSLATION45147 --,-- NO_TRANSLATION83816 --"
+ },
+ {
+   "id": 3199182,
+   "title": "Other Survey :: Clone",
+   "qualifications_supported": "AGE,GENDER,STATE,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION61190 --"
+ },
+ {
+   "id": 3199229,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA,ETHNICITY,REGION,STANDARD_EDUCATION,STANDARD_HHI_US",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3199315,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,STANDARD_EDUCATION,STANDARD_EMPLOYMENT,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3199330,
+   "title": "26837",
+   "qualifications_supported": "AGE,GENDER,STANDARD_COMPANY_DEPARTMENT,STANDARD_INDUSTRY_PERSONAL,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3199370,
+   "title": "Decision Makers",
+   "qualifications_supported": "AGE,GENDER,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": "-- NO_TRANSLATION49162 --,-- NO_TRANSLATION50502 --"
+ },
+ {
+   "id": 3199384,
+   "title": "2040 US V1",
+   "qualifications_supported": "AGE,GENDER,DMA,STANDARD_B2B_DECISION_MAKER",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3199386,
+   "title": "Fun Survey! :: Clone :: Clone :: Clone :: Clone :: Clone",
+   "qualifications_supported": "AGE,GENDER,STATE,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3199397,
+   "title": "20522_US",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3199398,
+   "title": "Student  English - United States - Primary Parents",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": "-- NO_TRANSLATION116909 --"
+ },
+ {
+   "id": 3199418,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3199435,
+   "title": "180336_4  April_1",
+   "qualifications_supported": "AGE,GENDER,ZIP,HISPANIC,REGION",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3199445,
+   "title": "Fun Survey! :: Clone :: Clone",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EDUCATION,STANDARD_EMPLOYMENT,STANDARD_INDUSTRY_PERSONAL",
+   "qualifications_no_supported": "-- NO_TRANSLATION93519 --"
+ },
+ {
+   "id": 3199452,
+   "title": "26836-US",
+   "qualifications_supported": "AGE,GENDER,STANDARD_COMPANY_DEPARTMENT,STANDARD_INDUSTRY_PERSONAL,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3199593,
+   "title": "Policy Informed people English - United States - Primary",
+   "qualifications_supported": "AGE,GENDER,STATE,STANDARD_EDUCATION,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3199611,
+   "title": "83305-Cough-US_April",
+   "qualifications_supported": "AGE,GENDER,ZIP",
+   "qualifications_no_supported": "-- NO_TRANSLATION90061 --"
+ },
+ {
+   "id": 3199614,
+   "title": "Policy Informed people English - United States - Primary",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EDUCATION,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION83023 --"
+ },
+ {
+   "id": 3199626,
+   "title": "Other Survey :: Clone :: Clone",
+   "qualifications_supported": "AGE,GENDER,DMA",
+   "qualifications_no_supported": "-- NO_TRANSLATION93065 --"
+ },
+ {
+   "id": 3199644,
+   "title": "3933795",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3199654,
+   "title": "Study_15924685",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,MS_is_mobile",
+   "qualifications_no_supported": "-- NO_TRANSLATION726 --,-- NO_TRANSLATION727 --,-- NO_TRANSLATION45147 --,-- NO_TRANSLATION83816 --"
+ },
+ {
+   "id": 3199680,
+   "title": "CMO_B2B_USA",
+   "qualifications_supported": "AGE,STANDARD_COMPANY_REVENUE,STANDARD_COMPANY_DEPARTMENT,STANDARD_EMPLOYMENT,STANDARD_JOB_TITLE,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": "-- NO_TRANSLATION79872 --"
+ },
+ {
+   "id": 3199720,
+   "title": "You have been selected for a new survey! ",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION,STANDARD_HHI_US",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3199741,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,STANDARD_INDUSTRY_PERSONAL,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3199760,
+   "title": "DB_Legal(HOD)_US",
+   "qualifications_supported": "AGE,STANDARD_COMPANY_REVENUE,STANDARD_COMPANY_DEPARTMENT,STANDARD_EMPLOYMENT,STANDARD_INDUSTRY_PERSONAL,MS_is_mobile,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3199790,
+   "title": "DB_Legal_US",
+   "qualifications_supported": "AGE,STANDARD_COMPANY_REVENUE,STANDARD_COMPANY_DEPARTMENT,STANDARD_EMPLOYMENT,STANDARD_INDUSTRY_PERSONAL,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3199792,
+   "title": "Atrial Fibrillation Sufferers",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,STANDARD_RELATIONSHIP,STANDARD_EDUCATION,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION109509 --"
+ },
+ {
+   "id": 3199821,
+   "title": "Atrial Fibrillation Sufferers",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,STANDARD_RELATIONSHIP,STANDARD_EDUCATION,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION109509 --"
+ },
+ {
+   "id": 3199856,
+   "title": "Hispanics in Colorado countries",
+   "qualifications_supported": "AGE",
+   "qualifications_no_supported": "-- NO_TRANSLATION99109 --"
+ },
+ {
+   "id": 3199926,
+   "title": "Fun New Survey!",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3199947,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3199975,
+   "title": "26580_2",
+   "qualifications_supported": "AGE,GENDER,STANDARD_COMPANY_DEPARTMENT,STANDARD_INDUSTRY_PERSONAL,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3199978,
+   "title": "Fun New Survey! ",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3199986,
+   "title": "Fun Survey! You have been selected for a new survey!",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,STATE,ETHNICITY,STANDARD_HHI_US",
+   "qualifications_no_supported": "-- NO_TRANSLATION641 --"
+ },
+ {
+   "id": 3199989,
+   "title": "USA- Mangers+",
+   "qualifications_supported": "AGE,GENDER,STANDARD_INDUSTRY_PERSONAL,STANDARD_JOB_TITLE,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3200031,
+   "title": "Fun New Survey!",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA,ETHNICITY",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3200081,
+   "title": "SCPO 52070 VSL_SC1137970_Vishal",
+   "qualifications_supported": "AGE,GENDER,STATE,STANDARD_EDUCATION,STANDARD_HHI_US",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3200107,
+   "title": "Minneapolis Music Study",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3200114,
+   "title": "Fun Survey! You have been selected for a new survey!",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,STATE,ETHNICITY,STANDARD_HHI_US",
+   "qualifications_no_supported": "-- NO_TRANSLATION641 --"
+ },
+ {
+   "id": 3200115,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3200122,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,DMA",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3200157,
+   "title": "20525_US",
+   "qualifications_supported": "AGE,GENDER,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3200183,
+   "title": "4089335",
+   "qualifications_supported": "AGE,GENDER,ZIP",
+   "qualifications_no_supported": "-- NO_TRANSLATION29228 --"
+ },
+ {
+   "id": 3200200,
+   "title": "ITDMs",
+   "qualifications_supported": "AGE,GENDER,STANDARD_COMPANY_REVENUE,STANDARD_COMPANY_DEPARTMENT,STANDARD_EMPLOYMENT,STANDARD_B2B_DECISION_MAKER,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": "-- NO_TRANSLATION90061 --"
+ },
+ {
+   "id": 3200211,
+   "title": "100+ EE ITDMS - IN_SC1145104_Imran",
+   "qualifications_supported": "AGE,STANDARD_COMPANY_DEPARTMENT,STANDARD_EMPLOYMENT,MS_is_mobile,STANDARD_JOB_TITLE,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3200218,
+   "title": "SC75636-US_api1",
+   "qualifications_supported": "AGE,GENDER,STANDARD_COMPANY_REVENUE,STANDARD_EMPLOYMENT,STANDARD_INDUSTRY_PERSONAL,MS_is_tablet,MS_is_mobile,STANDARD_JOB_TITLE,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3200230,
+   "title": "Pediatric Eczema  VG",
+   "qualifications_supported": "AGE,GENDER,ZIP",
+   "qualifications_no_supported": "-- NO_TRANSLATION102599 --"
+ },
+ {
+   "id": 3200249,
+   "title": "RFG2515804-056",
+   "qualifications_supported": "AGE,GENDER,DMA",
+   "qualifications_no_supported": "-- NO_TRANSLATION103189 --"
+ },
+ {
+   "id": 3200282,
+   "title": "1902010-US2",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3200308,
+   "title": "Other survey",
+   "qualifications_supported": "AGE,ZIP,STANDARD_DIAGNOSED_AILMENTS_I,children_ages,parental_status",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3200314,
+   "title": "Home owners",
+   "qualifications_supported": "AGE,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION111438 --"
+ },
+ {
+   "id": 3200326,
+   "title": "Study_15885555",
+   "qualifications_supported": "AGE,GENDER,MS_is_mobile",
+   "qualifications_no_supported": "-- NO_TRANSLATION56629 --"
+ },
+ {
+   "id": 3200328,
+   "title": "HIspanic-F",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,STATE,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3200366,
+   "title": "Study_15918298",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": "-- NO_TRANSLATION105014 --"
+ },
+ {
+   "id": 3200371,
+   "title": "General Survey",
+   "qualifications_supported": "AGE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3200378,
+   "title": "Study_15918296",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": "-- NO_TRANSLATION105014 --"
+ },
+ {
+   "id": 3200437,
+   "title": "ITDMs/BDMs ",
+   "qualifications_supported": "STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": "-- NO_TRANSLATION65651 --"
+ },
+ {
+   "id": 3200443,
+   "title": "C Level _US",
+   "qualifications_supported": "AGE,STANDARD_COMPANY_REVENUE,STANDARD_EMPLOYMENT,STANDARD_INDUSTRY_PERSONAL,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3200452,
+   "title": "relaunch_SC1148349_Shruti",
+   "qualifications_supported": "AGE,GENDER,ZIP,children_ages,parental_status",
+   "qualifications_no_supported": "-- NO_TRANSLATION3919 --"
+ },
+ {
+   "id": 3200489,
+   "title": "fun survey",
+   "qualifications_supported": "AGE,GENDER,STANDARD_COMPANY_DEPARTMENT,STANDARD_JOB_TITLE,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": "-- NO_TRANSLATION71949 --"
+ },
+ {
+   "id": 3200515,
+   "title": "4351484",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3200535,
+   "title": "General Survey",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3200560,
+   "title": "MC-51527 US Piyush/VSL Latest_SC1141187_Vishal",
+   "qualifications_supported": "AGE,GENDER,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3200571,
+   "title": "Chefs",
+   "qualifications_supported": "AGE,GENDER,DMA,STANDARD_EMPLOYMENT",
+   "qualifications_no_supported": "-- NO_TRANSLATION84759 --"
+ },
+ {
+   "id": 3200610,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION116216 --"
+ },
+ {
+   "id": 3200642,
+   "title": "26836-US",
+   "qualifications_supported": "AGE,GENDER,STANDARD_COMPANY_DEPARTMENT,STANDARD_INDUSTRY_PERSONAL,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3200661,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT,STANDARD_B2B_DECISION_MAKER",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3200705,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3200725,
+   "title": "General Study",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT,STANDARD_INDUSTRY_PERSONAL",
+   "qualifications_no_supported": "-- NO_TRANSLATION103677 --"
+ },
+ {
+   "id": 3200744,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3200809,
+   "title": "191503_US 5/4",
+   "qualifications_supported": "AGE,GENDER,MS_is_mobile",
+   "qualifications_no_supported": "-- NO_TRANSLATION649 --,-- NO_TRANSLATION106572 --"
+ },
+ {
+   "id": 3200863,
+   "title": "Other Survey :: Clone :: Clone :: Clone :: Clone :: Clone :: Clone",
+   "qualifications_supported": "AGE,GENDER,STATE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3200869,
+   "title": "Other Survey 1868384",
+   "qualifications_supported": "AGE,GENDER,ZIP,HISPANIC,ETHNICITY,REGION,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3200886,
+   "title": "20388_US4",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3200888,
+   "title": "Study_15900539",
+   "qualifications_supported": "AGE,GENDER,STANDARD_DIAGNOSED_AILMENTS_I,MS_is_mobile",
+   "qualifications_no_supported": "-- NO_TRANSLATION762 --,-- NO_TRANSLATION29228 --"
+ },
+ {
+   "id": 3200918,
+   "title": "Fun Survey!  ",
+   "qualifications_supported": "AGE,STATE",
+   "qualifications_no_supported": "-- NO_TRANSLATION6259 --"
+ },
+ {
+   "id": 3200936,
+   "title": "General Survey",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": "-- NO_TRANSLATION104618 --"
+ },
+ {
+   "id": 3200942,
+   "title": "Fun Survey!  ",
+   "qualifications_supported": "AGE,STATE",
+   "qualifications_no_supported": "-- NO_TRANSLATION6259 --"
+ },
+ {
+   "id": 3200944,
+   "title": "Fun Survey! ",
+   "qualifications_supported": "AGE,STATE",
+   "qualifications_no_supported": "-- NO_TRANSLATION6259 --"
+ },
+ {
+   "id": 3200965,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3200973,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3200974,
+   "title": "Fun Survey!  ",
+   "qualifications_supported": "AGE,STATE",
+   "qualifications_no_supported": "-- NO_TRANSLATION6259 --"
+ },
+ {
+   "id": 3201047,
+   "title": "Fun Survey! ",
+   "qualifications_supported": "AGE,STATE",
+   "qualifications_no_supported": "-- NO_TRANSLATION6259 --"
+ },
+ {
+   "id": 3201059,
+   "title": "Fun Survey! :: Clone :: Clone :: Clone :: Clone :: Clone :: Clone",
+   "qualifications_supported": "AGE,GENDER,STATE,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3201094,
+   "title": "DB_Genpop_US_Tampa",
+   "qualifications_supported": "AGE,DMA,STANDARD_EDUCATION",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3201112,
+   "title": "Home Utilities Appliances Survey",
+   "qualifications_supported": "AGE,GENDER,DMA,STANDARD_PRIMARY_DECISION_MAKER,STANDARD_HHI_US",
+   "qualifications_no_supported": "-- NO_TRANSLATION643 --"
+ },
+ {
+   "id": 3201173,
+   "title": "10855813",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3201189,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,STATE,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION32352 --"
+ },
+ {
+   "id": 3201231,
+   "title": "SCPO 52258  Ishu US_SC1148136_Ishub",
+   "qualifications_supported": "AGE",
+   "qualifications_no_supported": "-- NO_TRANSLATION762 --,-- NO_TRANSLATION110961 --"
+ },
+ {
+   "id": 3201236,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,REGION",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3201262,
+   "title": "26846",
+   "qualifications_supported": "AGE,GENDER,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3201323,
+   "title": "Communications & IT",
+   "qualifications_supported": "AGE,STANDARD_COMPANY_REVENUE,STANDARD_EMPLOYMENT,STANDARD_INDUSTRY_PERSONAL,STANDARD_JOB_TITLE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3201353,
+   "title": "20534_US",
+   "qualifications_supported": "AGE,GENDER,DMA",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3201359,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,STATE,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION639 --,-- NO_TRANSLATION105013 --"
+ },
+ {
+   "id": 3201376,
+   "title": "Genpop_USA",
+   "qualifications_supported": "AGE,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3201416,
+   "title": "Study_15921423",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3201426,
+   "title": "Study_15770450",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3201452,
+   "title": "Fun Survey!",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,DMA,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3201457,
+   "title": "Study_15929029",
+   "qualifications_supported": "AGE,ZIP,HISPANIC,ETHNICITY",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3201614,
+   "title": "Other Survey _2",
+   "qualifications_supported": "AGE,GENDER,MS_is_mobile,STANDARD_HHI",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3201683,
+   "title": "20174_US_PIC",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3201709,
+   "title": "Gamers English - United States - Primary",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": "-- NO_TRANSLATION74486 --"
+ },
+ {
+   "id": 3201714,
+   "title": "US-CBSA_SC1136619_Vishal",
+   "qualifications_supported": "AGE,GENDER,ZIP,STANDARD_HHI_US",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3201731,
+   "title": "INV14432 Cleveland OH",
+   "qualifications_supported": "AGE,GENDER,DMA,MS_is_tablet,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3201734,
+   "title": "INV14432_Memphis and Nashville",
+   "qualifications_supported": "AGE,GENDER,DMA,MS_is_tablet,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3201737,
+   "title": "Other Survey :: Clone :: Clone :: Clone :: Clone",
+   "qualifications_supported": "AGE,GENDER,DMA",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3201793,
+   "title": "SCPO 51906 VSL LA_SC1140410_Vishal",
+   "qualifications_supported": "AGE,GENDER,DMA,ETHNICITY",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3201928,
+   "title": "Study_15827465",
+   "qualifications_supported": "AGE,GENDER,MS_is_mobile",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3201941,
+   "title": "9030188_III",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,STATE,ETHNICITY,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION63258 --,-- NO_TRANSLATION63260 --,-- NO_TRANSLATION74977 --,-- NO_TRANSLATION85269 --"
+ },
+ {
+   "id": 3202058,
+   "title": "Study_15596336",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,MS_is_mobile,STANDARD_HHI",
+   "qualifications_no_supported": "-- NO_TRANSLATION101 --,-- NO_TRANSLATION83248 --"
+ },
+ {
+   "id": 3202142,
+   "title": "Qual2374_231118_Teachers | a0f2J00000DHCHeQAP English - United States - Primary :: Clone :: Clone :: Clone :: Clone :: Clone :: ",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3202253,
+   "title": "B2B survey",
+   "qualifications_supported": "AGE,GENDER,ETHNICITY",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3202717,
+   "title": "10875101",
+   "qualifications_supported": "AGE,GENDER,HISPANIC,ETHNICITY,REGION,STANDARD_COMPANY_DEPARTMENT,STANDARD_EMPLOYMENT,STANDARD_INDUSTRY_PERSONAL,STANDARD_JOB_TITLE,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3202891,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3202983,
+   "title": "20537_US",
+   "qualifications_supported": "AGE,GENDER",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3203309,
+   "title": "20524_US_1",
+   "qualifications_supported": "AGE",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3203331,
+   "title": "New Survey! ",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EMPLOYMENT",
+   "qualifications_no_supported": "-- NO_TRANSLATION643 --"
+ },
+ {
+   "id": 3203421,
+   "title": "Other Survey",
+   "qualifications_supported": "AGE,GENDER,STANDARD_EDUCATION,STANDARD_COMPANY_REVENUE,STANDARD_EMPLOYMENT,STANDARD_JOB_TITLE,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": "-- NO_TRANSLATION643 --"
+ },
+ {
+   "id": 3203461,
+   "title": "Your company (4/19)",
+   "qualifications_supported": "REGION,STANDARD_JOB_TITLE,STANDARD_NO_OF_EMPLOYEES",
+   "qualifications_no_supported": ""
+ },
+ {
+   "id": 3203594,
+   "title": "SCPPO Shivam_SC1147558_shivam123",
+   "qualifications_supported": "AGE,GENDER,ZIP,ETHNICITY",
+   "qualifications_no_supported": ""
+ }
+]
