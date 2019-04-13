@@ -1,20 +1,49 @@
+/*$color1: rgba(8, 82, 92, 1);
+$color2: rgba(201, 134, 134, 1);
+$color3: rgba(242, 184, 128, 1);
+$color4: rgba(255, 244, 236, 1);
+$color5: rgba(231, 207, 188, 1);*/
+
+@import url('https://fonts.googleapis.com/css?family=B612+Mono');
+
+body {
+  background-color: rgba(231, 207, 188, 1);
+  color: #313131;
+  font-family: 'B612 Mono', monospace;
+}
+
+section h2 {
+  margin-top: 0.5em;
+}
+
+#simulation {
+  border: 1px solid rgba(201, 134, 134, 1);
+  margin: 1em;
+  padding: 1em 0.5em;
+}
+
 .survey {
   height: 20px;
   width: 20px;
-  background-color: red;
-  border: 1px solid yellow;
+  background-color: rgba(255, 244, 236, 1);
+  margin: 1px;
 }
 
 .demographic {
   height: 20px;
-  background-color: red;
-  border: 1px solid yellow;
+  background-color: rgba(255, 244, 236, 1);
+  margin: 1px;
+}
+
+#demographics .demographic,
+#combinations .surveys-counter {
+  cursor: pointer;
 }
 
 .survey.unlocked {
-  background-color: green;
+  background-color: rgba(8, 82, 92, 1);
 }
 
 .demographic.active {
-  background-color: green;
+  background-color: rgba(8, 82, 92, 1);
 }
