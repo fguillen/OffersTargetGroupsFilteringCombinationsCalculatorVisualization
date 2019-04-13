@@ -21,30 +21,33 @@ var app = new Vue({
     start: function() {
       console.log("start");
 
-      this.step(this.demographics);
+      // iterate over all the combinations
+      for (var i = 0; i <= this.max_number_of_combinations(); i++) {
+        var binary_matrix = i.toString(2);
+        binary_matrix = binary_matrix.padStart(this.demographics.length, "0");
+        this.set_demographic_states(binary_matrix);
+        this.calculate()
+      }
+
+    },
+    // Calculating the num of binary combinations using binary numbers
+    max_number_of_combinations: function(){
+      var binary_matrix = _.map(this.demographics, function() { return "1" }).join("");
+      var binary_matrix_to_decimal = parseInt(binary_matrix, 2)
+
+      return binary_matrix_to_decimal
+    },
+
+    set_demographic_states(binary_matrix){
+      for (var i = 0; i < binary_matrix.length; i++) {
+        var value = binary_matrix[i] == "1";
+        this.demographics[i].active = value;
+      }
     },
 
     calculate: function() {
       var states = _.map(this.demographics, function(e){ return e.active } );
       console.log("calculate", states);
-    },
-
-    step: function(demographics) {
-      console.log("step", demographics.length);
-      console.log("step", _.map(demographics, function(e){ return e.name } ));
-
-      var self = this;
-
-      _.each(demographics, function(demographic) {
-        _demographics = demographics.filter(function(e){ return e != demographic });
-
-        self.calculate();
-        demographic.active = true;
-        self.calculate();
-
-        demographic.active = false;
-        self.step(_demographics);
-      });
     }
   }
 })
