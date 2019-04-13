@@ -4,6 +4,8 @@ console.log("Loading APP version", version);
 var app = new Vue({
   el: "#app",
   data: {
+    demographicsUrl: "demographics_small.json",
+    surveysUrl: "surveys.json",
     maxStoredCombinations: 10,
     demographics: [],
     surveys: [],
@@ -35,7 +37,7 @@ var app = new Vue({
       console.log("loadDemographics");
 
       var _self = this;
-      $.getJSON("./demographics_small.json", function (json) {
+      $.getJSON(this.demographicsUrl, function (json) {
         json.forEach((demographicName) => {
           _self.demographics.push({
             name: demographicName,
@@ -49,7 +51,7 @@ var app = new Vue({
       console.log("loadSurveys");
 
       var _self = this;
-      $.getJSON("./surveys_small.json", function (json) {
+      $.getJSON(this.surveysUrl, function (json) {
         json.forEach((survey) => {
           var demographics = survey.qualifications_supported.split(",").concat(survey.qualifications_no_supported.split(","));
           demographics = _.filter(demographics, demographic => (demographic.length > 0));
@@ -130,7 +132,7 @@ var app = new Vue({
         }
 
         this.combinations.push(combination);
-        this.combinations = _.sortBy(this.combinations, combination => [-combination.numSurveysUnlocked, combination.demographicsActive.length]);
+        this.combinations = _.sortBy(this.combinations, combination => -combination.numSurveysUnlocked);
       }
     },
 
