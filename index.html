@@ -19,12 +19,14 @@
       <button v-on:click="start">Start</button>
 
       <h1>Offers' TargetGroups Combination Calculator</h1>
+      <div>
+        <p>Number of Combinations: {{ numOfCombinations }}</p>
+      </div>
 
       <section id="demographics">
         <h2>Demographics active</h2>
         <div class="row">
-          <div v-for="demographic in demographics" class="col-1 demographic" v-bind:class="{ active: demographic.active }">
-            {{ demographic.name }} - {{ demographic.active }}
+          <div v-for="demographic in demographics" class="col-1 demographic" v-bind:class="{ active: demographic.active }" data-toggle="tooltip" data-placement="top" :title="demographic.name">
           </li>
         </div>
       </section>
@@ -32,8 +34,7 @@
       <section id="surveys">
         <h2>Surveys unlocked</h2>
         <div class="row">
-          <div v-for="survey in surveys" class="col-1 survey locked" v-bind:class="{ unlocked: survey.unlocked }">
-            {{ survey.unlocked }}
+          <div v-for="survey in surveys" class="col-1 survey locked" v-bind:class="{ unlocked: survey.unlocked }" data-toggle="tooltip" data-placement="top" :title="survey.title">
           </div>
         </div>
       </section>
@@ -41,6 +42,7 @@
       <section id="combinations">
         <h2>Combinations ({{ combinationsLength }})</h2>
         <div class="row" v-for="combination in combinations">
+          [{{ combination.numSurveysUnlocked}}] -
           {{ combination.demographicsActive }} -
           {{ combination.surveysUnlocked }}
         </div>
@@ -61,5 +63,11 @@
 
     <!-- App -->
     <script type="text/javascript" src="./script.js"></script>
+
+    <script type="text/javascript">
+      $(function () {
+        $('[data-toggle="tooltip"]').tooltip()
+      })
+    </script>
   </body>
 </html>

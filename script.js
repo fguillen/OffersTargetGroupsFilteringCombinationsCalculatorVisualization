@@ -4,13 +4,14 @@ console.log("Loading APP version", version);
 var app = new Vue({
   el: '#app',
   data: {
+    maxStoredCombinations: 10,
     demographics: [],
     surveys: [
-      { title: 'Survey 1', demographics: ["gender", "city_rural"], unlocked: false },
-      { title: 'Survey 2', demographics: ["gender", "city_rural"], unlocked: false },
-      { title: 'Survey 3', demographics: ["gender", "smoke"], unlocked: false },
-      { title: 'Survey 4', demographics: ["gender", "age", "happy"], unlocked: false },
-      { title: 'Survey 1', demographics: ["gender", "city_rural"], unlocked: false }
+      { title: 'Survey 1', demographics: ["GENDER", "ETHNICITY"], unlocked: false },
+      { title: 'Survey 2', demographics: ["GENDER", "ETHNICITY"], unlocked: false },
+      { title: 'Survey 3', demographics: ["GENDER", "AGE"], unlocked: false },
+      { title: 'Survey 4', demographics: ["GENDER", "AGE", "happy"], unlocked: false },
+      { title: 'Survey 1', demographics: ["GENDER", "ETHNICITY"], unlocked: false }
     ],
     combinations: []
   },
@@ -30,7 +31,18 @@ var app = new Vue({
   computed: {
     combinationsLength: function() {
       return this.combinations.length;
-    }
+    },
+    numOfCombinations: function() {
+      console.log("maxNumberOfCombinations");
+      var binaryMatrix = _.map(this.demographics, () => { return "1" }).join("");
+      var maxNumberOfCombinations = parseInt(binaryMatrix, 2) + 1
+
+      return maxNumberOfCombinations;
+    },
+    minSurveysUnlockedInStoredCombinations: function() {
+      console.log("minSurveysUnlockedInStoredCombinations");
+      return _.min(_.map(this.combinations, "numSurveysUnlocked"));
+    },
   },
   methods: {
     start: function() {
@@ -38,12 +50,10 @@ var app = new Vue({
 
       this.resetSurveyStates();
 
-      // setInterval(this.calculate, 1);
-
       var _self = this;
-      // iterate over all the combinations
-      _.times(1, function() {
-        for (var i = 0; i <= _self.maxNumberOfCombinations(); i++) {
+
+      _.times(100, function() {
+        for (var i = 0; i < _self.numOfCombinations; i++) {
           setTimeout((i) => { _self.calculateCombination(i) }, 0, i);
         }
       });
@@ -56,23 +66,13 @@ var app = new Vue({
       binaryMatrix = binaryMatrix.padStart(this.demographics.length, "0");
       this.setDemographicStates(binaryMatrix);
       this.calculate();
-      // this.storeCombination();
+      this.storeCombination();
     },
 
     resetSurveyStates: function() {
       this.surveys.forEach((survey) => {
         survey.unlocked = false;
       })
-    },
-    // Calculating the num of binary combinations using binary numbers
-    maxNumberOfCombinations: function(){
-      console.log("maxNumberOfCombinations");
-      var binaryMatrix = _.map(this.demographics, function() { return "1" }).join("");
-      var binaryMatrixToDecimal = parseInt(binaryMatrix, 2)
-
-      console.log("maxNumberOfCombinations", binaryMatrixToDecimal);
-
-      return binaryMatrixToDecimal
     },
 
     setDemographicStates(binaryMatrix){
@@ -107,12 +107,27 @@ var app = new Vue({
 
     storeCombination: function() {
       console.log("storeCombination");
-      var combination = {
-        demographicsActive: _.clone(this.demographicsActive()),
-        surveysUnlocked: _.clone(this.surveysUnlocked())
+      var numSurveysUnlocked = this.surveysUnlocked().length;
+
+      console.log("numSurveysUnlocked", numSurveysUnlocked);
+      console.log("this.minSurveysUnlockedInStoredCombinations", this.minSurveysUnlockedInStoredCombinations);
+      console.log("this.combinations.length", this.combinations.length);
+
+      if((this.combinations.length >= this.maxStoredCombinations) && (numSurveysUnlocked > this.minSurveysUnlockedInStoredCombinations)) {
+        console.log("combinations.pop()", numSurveysUnlocked);
+        this.combinations.pop();
       }
 
-      this.combinations.unshift(combination);
+      if(this.combinations.length < this.maxStoredCombinations){
+        var combination = {
+          demographicsActive: _.clone(this.demographicsActive()),
+          surveysUnlocked: _.clone(this.surveysUnlocked()),
+          numSurveysUnlocked: numSurveysUnlocked
+        }
+
+        this.combinations.push(combination);
+        this.combinations = _.sortBy(this.combinations, (combination) => { return -combination.numSurveysUnlocked });
+      }
     },
 
     demographicsActive: function() {
