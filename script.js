@@ -4,12 +4,7 @@ console.log("Loading APP version", version);
 var app = new Vue({
   el: '#app',
   data: {
-    demographics: [
-      { name: 'gender', active: false },
-      { name: 'age', active: false },
-      { name: 'city_rural', active: false },
-      { name: 'smoke', active: false }
-    ],
+    demographics: [],
     surveys: [
       { title: 'Survey 1', demographics: ["gender", "city_rural"], unlocked: false },
       { title: 'Survey 2', demographics: ["gender", "city_rural"], unlocked: false },
@@ -18,6 +13,19 @@ var app = new Vue({
       { title: 'Survey 1', demographics: ["gender", "city_rural"], unlocked: false }
     ],
     combinations: []
+  },
+  created: function() {
+    console.log("create");
+
+    var _self = this;
+    $.getJSON('./demographics_small.json', function (json) {
+      json.forEach((demographicName) => {
+        _self.demographics.push({
+          name: demographicName,
+          active: false
+        })
+      });
+    });
   },
   computed: {
     combinationsLength: function() {
@@ -34,7 +42,7 @@ var app = new Vue({
 
       var _self = this;
       // iterate over all the combinations
-      _.times(10, function() {
+      _.times(1, function() {
         for (var i = 0; i <= _self.maxNumberOfCombinations(); i++) {
           setTimeout((i) => { _self.calculateCombination(i) }, 0, i);
         }
@@ -48,7 +56,7 @@ var app = new Vue({
       binaryMatrix = binaryMatrix.padStart(this.demographics.length, "0");
       this.setDemographicStates(binaryMatrix);
       this.calculate();
-      this.storeCombination();
+      // this.storeCombination();
     },
 
     resetSurveyStates: function() {
@@ -58,8 +66,11 @@ var app = new Vue({
     },
     // Calculating the num of binary combinations using binary numbers
     maxNumberOfCombinations: function(){
+      console.log("maxNumberOfCombinations");
       var binaryMatrix = _.map(this.demographics, function() { return "1" }).join("");
       var binaryMatrixToDecimal = parseInt(binaryMatrix, 2)
+
+      console.log("maxNumberOfCombinations", binaryMatrixToDecimal);
 
       return binaryMatrixToDecimal
     },
