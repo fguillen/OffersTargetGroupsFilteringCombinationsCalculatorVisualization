@@ -23,7 +23,7 @@
         <div>
           <p>Number of Combinations: {{ numCombinationsDone }} / {{ numCombinations }}</p>
           <div class="progress">
-            <div class="progress-bar bg-info" role="progressbar" v-bind:style="{width: progress + '%'}" aria-valuenow="{{ progress }}" aria-valuemin="0" aria-valuemax="100"></div>
+            <div class="progress-bar bg-info" role="progressbar" v-bind:style="{width: progress + '%'}" :aria-valuenow="progress" aria-valuemin="0" aria-valuemax="100"></div>
           </div>
           <br>
           <button type="button" v-on:click="start" class="btn btn-info btn-lg">Start Simulation</button>
@@ -34,7 +34,13 @@
         <section id="demographics" class="container-fluid">
           <h2>Demographics active</h2>
           <div class="row">
-            <div v-for="demographic in demographics" class="col demographic" v-on:click="toggleDemographic(demographic)" v-bind:class="{ active: demographic.active }" data-toggle="tooltip" data-placement="top" :title="demographic.name"></div>
+            <div v-for="demographic in demographics" class="col demographic" v-on:click="toggleDemographic(demographic)" v-bind:class="{ active: demographic.active }" data-toggle="tooltip" data-placement="top" :title="demographic.name">
+              <div class="cell">
+              </div>
+              <div class="controls">
+                <span class="badge badge-info" data-toggle="tooltip" data-placement="top" title="Surveys containing this Demographic">{{ demographic.numSurveysContainingThisDemographic }}</span>
+              </div>
+            </div>
             <div class="col"><span class="badge badge-info">{{ surveysUnlocked().length }}</span></div>
           </div>
         </section>

@@ -15,8 +15,8 @@ var app = new Vue({
   created: function() {
     console.log("create");
 
-    this.loadDemographics();
     this.loadSurveys();
+    this.loadDemographics();
   },
   computed: {
     progress: function() {
@@ -44,11 +44,13 @@ var app = new Vue({
         json.forEach((demographicName) => {
           _self.demographics.push({
             name: demographicName,
-            active: false
+            active: false,
+            numSurveysContainingThisDemographic: 0
           })
         });
       });
     },
+
 
     loadSurveys: function() {
       console.log("loadSurveys");
@@ -66,6 +68,8 @@ var app = new Vue({
             unlocked: false
           })
         });
+
+        _self.calculateNumSurveysContainingInDemographics();
       });
     },
 
@@ -171,6 +175,25 @@ var app = new Vue({
 
     surveysUnlocked: function() {
       return _.select(this.surveys, survey => survey.unlocked);
+    },
+
+    calculateNumSurveysContainingInDemographics: function() {
+      console.log("calculateNumSurveysContainingInDemographics");
+
+      this.demographics.forEach((demographic) => {
+        demographic.numSurveysContainingThisDemographic = this.calculateNumSurveysContainingThisDemographic(demographic);
+      });
+    },
+
+    calculateNumSurveysContainingThisDemographic: function(demographic) {
+      console.log("calculateNumSurveysContainingThisDemographic", demographic.name);
+
+      var surveysCount =
+        _.select(this.surveys, (survey) => {
+          return _.include(survey.demographics, demographic.name);
+        }).length;
+
+      return surveysCount;
     }
   }
 })

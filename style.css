@@ -30,8 +30,21 @@ section h2 {
 }
 
 .demographic {
+  padding: 0;
+}
+
+.demographic .cell,
+#combinations .demographic {
   height: 20px;
   background-color: rgba(255, 244, 236, 1);
+  margin: 1px;
+}
+
+.demographic .controls {
+}
+
+.demographic .controls .badge {
+  font-size: 0.7em;
   margin: 1px;
 }
 
@@ -44,6 +57,7 @@ section h2 {
   background-color: rgba(8, 82, 92, 1);
 }
 
-.demographic.active {
+.demographic.active .cell,
+#combinations .demographic.active {
   background-color: rgba(8, 82, 92, 1);
 }
